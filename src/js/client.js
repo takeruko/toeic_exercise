@@ -120,21 +120,21 @@ const ToeicApp = () => {
   return (
     <BrowserRouter>
         <Routes>
-          <Route exact path="/" element={
+          <Route exact path="" element={
             <MenuScreen />
           } />
-          <Route path="/Part2Menu" element={
+          <Route path="Part2Menu" element={
             <Part2Menu
               setExams={setExams}
               player={player} />
           } />
-          <Route path="/Part2Direction" element={
+          <Route path="Part2Direction" element={
             <Part2Direction
               exams={exams}
               setCurrentExamNumber={setCurrentExamNumber}
               player={player} />
           } />
-          <Route path="/Part2Exercise" element={
+          <Route path="Part2Exercise" element={
             <Part2Exercise
               exams={exams}
               currentExamNumber={currentExamNumber}
@@ -145,7 +145,7 @@ const ToeicApp = () => {
               getResult={get_result}
               player={player} />
           } />
-          <Route path="/Result" element={
+          <Route path="Result" element={
             <Result result={result} />
           } />
         </Routes>
@@ -156,7 +156,7 @@ const ToeicApp = () => {
 const MenuScreen = () => {
   return (
     <div className="text-center">
-      <Link to="/Part2Menu" className="btn btn-primary p-3 m-3 menu-btn">Part 2: Question & response</Link>
+      <Link to="../Part2Menu" className="btn btn-primary p-3 m-3 menu-btn">Part 2: Question & response</Link>
     </div>
   );
 };
@@ -183,8 +183,8 @@ const Part2Menu = ({
       <div className="text-center">
         <h2 className="m-3">Part2: Question & Response</h2>
         <div>
-          <Link to="/Part2Direction" className="btn btn-primary p-2 m-3 func-btn" onClick={() => {playDirections(10);}}>10 exams</Link>
-          <Link to="/Part2Direction" className="btn btn-primary p-2 m-3 func-btn" onClick={() => {playDirections(25);}}>25 exams</Link>
+          <Link to="../Part2Direction" className="btn btn-primary p-2 m-3 func-btn" onClick={() => {playDirections(10);}}>10 exams</Link>
+          <Link to="../Part2Direction" className="btn btn-primary p-2 m-3 func-btn" onClick={() => {playDirections(25);}}>25 exams</Link>
         </div>
       </div>
       <div className="mx-4 p-4">
@@ -213,7 +213,7 @@ const Part2Direction = ({
   };
 
   if (exams === undefined) {
-    return (<Navigate to='/' />);
+    return (<Navigate to='' />);
   }
   else {
     return(
@@ -228,7 +228,7 @@ const Part2Direction = ({
           <li>When you are ready, click the "Start" button on the app screen to begin the exercise.</li>
         </ul>
         <div className="text-center">
-          <Link to="/Part2Exercise" className="btn btn-primary p-2 m-3 func-btn" onClick={() => {startExercise();}}>Start</Link>
+          <Link to="../Part2Exercise" className="btn btn-primary p-2 m-3 func-btn" onClick={() => {startExercise();}}>Start</Link>
         </div>
       </div>
     );
