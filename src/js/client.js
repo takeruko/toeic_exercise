@@ -312,11 +312,11 @@ const Part2Exercise = ({
   return(
     <div className="m-3">
       <div className="p-1 m-1">
+        <span className="fs-4 fw-bold">Part 2: </span>
         <span className="fw-bold">Score: </span>
         <span>{correctCount}/{exams.length}</span>
       </div>
       <div className="fs-4 fw-bold p-1 m-1">
-        <span>Part 2: </span>
         <span>No.{currentExamNumber}</span>
         <i className="bi bi-play-circle m-2" onClick={() => player.replay_exam()} />
       </div>
