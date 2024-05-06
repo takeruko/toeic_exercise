@@ -5,7 +5,7 @@
   "main": "index.js",
   "homepage": "/toeic_exercise",
   "scripts": {
-    "start": "webpack serve --open",
+    "start": "npx webpack serve --open",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",

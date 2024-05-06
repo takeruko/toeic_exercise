@@ -10,8 +10,11 @@ module.exports = {
         filename: "client.min.js"
     },
     devServer: {
-        static: "docs",
-        open: true,
+        static: {
+            directory: path.join(__dirname, 'docs'),
+            publicPath: '/toeic_exercise'
+        },
+        open: ['/toeic_exercise'],
         historyApiFallback: true
     },
     module: {
