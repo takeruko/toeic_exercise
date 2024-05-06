@@ -1,7 +1,6 @@
 import React, { useState, useRef, forwardRef } from "react";
 import { BrowserRouter, Link, Routes, Route, Navigate } from "react-router-dom";
 import { createRoot } from 'react-dom/client';
-import { createBrowserHistory } from 'history';
 import { AudioPlayer } from './audio_player.js';
 import voices from '../announce_voices.json';
 import contents from '../contents.json';
@@ -81,7 +80,6 @@ const getShuffledExercise = (content) => {
   };
 };
 
-const customizedhistory = createBrowserHistory({ basename: '/toeic_exercise' });
 const ToeicApp = () => {
   const [exams, setExams] = useState();
   const [currentExamNumber, setCurrentExamNumber] = useState();
@@ -120,7 +118,7 @@ const ToeicApp = () => {
   };
 
   return (
-    <BrowserRouter history={createBrowserHistory}>
+    <BrowserRouter basename='/toeic_exercise'>
         <Routes>
           <Route exact path="/">
             <Route index element={<MenuScreen />} />
@@ -313,19 +311,19 @@ const Part2Exercise = ({
   
   return(
     <div className="m-3">
-      <h2>Part 2: Question & response</h2>
       <div className="p-1 m-1">
-        <span className="fs-4 fw-bold">Score: </span>
-        <span className="fs-4">{correctCount}/{exams.length}</span>
+        <span className="fw-bold">Score: </span>
+        <span>{correctCount}/{exams.length}</span>
       </div>
       <div className="fs-4 fw-bold p-1 m-1">
+        <span>Part 2: </span>
         <span>No.{currentExamNumber}</span>
         <i className="bi bi-play-circle m-2" onClick={() => player.replay_exam()} />
       </div>
       <div className="p-1 m-1">
         <span className="fs-4 fw-bold">Question</span>
         <i className="bi bi-play-circle fs-4 m-2" onClick={() => player.replay_question()} />
-        <p className={show_answer() + " p-2 question-text-area"}>{question_text}</p>
+        <div className={show_answer() + " p-2 question-text-area"}>{question_text}</div>
       </div>
       <div className="p-1 m-1">
         <div className="text-center">
