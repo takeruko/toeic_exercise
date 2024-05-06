@@ -23,32 +23,50 @@ const getExams = (size) => {
 const getShuffledExercise = (content) => {
 
   const swap_map = {
-    "1": {  // (A, B, C) => (A, B, C)
+    "1": {  // new(A, B, C) => orig(A, B, C)
+      "newAnswerA": "AnswerA",
+      "newAnswerB": "AnswerB",
+      "newAnswerC": "AnswerC",
       "A": "A",
       "B": "B",
       "C": "C"
     },
-    "2": {  // (A, B, C) => (A, C, B)
+    "2": {  // new(A, B, C) => orig(A, C, B)
+      "newAnswerA": "AnswerA",
+      "newAnswerB": "AnswerC",
+      "newAnswerC": "AnswerB",
       "A": "A",
       "B": "C",
       "C": "B"
     },
-    "3": {  // (A, B, C) => (B, A, C)
+    "3": {  // new(A, B, C) => orig(B, A, C)
+      "newAnswerA": "AnswerB",
+      "newAnswerB": "AnswerA",
+      "newAnswerC": "AnswerC",
       "A": "B",
       "B": "A",
       "C": "C"
     },
-    "4": {  // (A, B, C) => (B, C, A)
-      "A": "B",
-      "B": "C",
-      "C": "A"
-    },
-    "5": {  // (A, B, C) => (C, A, B)
+    "4": {  // new(A, B, C) => orig(B, C, A)
+      "newAnswerA": "AnswerB",
+      "newAnswerB": "AnswerC",
+      "newAnswerC": "AnswerA",
       "A": "C",
       "B": "A",
       "C": "B"
     },
-    "6": {  // (A, B, C) => (C, B, A)
+    "5": {  // new(A, B, C) => orig(C, A, B)
+      "newAnswerA": "AnswerC",
+      "newAnswerB": "AnswerA",
+      "newAnswerC": "AnswerB",
+      "A": "B",
+      "B": "C",
+      "C": "A"
+    },
+    "6": {  // new(A, B, C) => orig(C, B, A)
+      "newAnswerA": "AnswerC",
+      "newAnswerB": "AnswerB",
+      "newAnswerC": "AnswerA",
       "A": "C",
       "B": "B",
       "C": "A"
@@ -59,22 +77,22 @@ const getShuffledExercise = (content) => {
   return {
     "ID": content['ID'],
     "Question": content['Question'],
-    "AnswerA": content['Answer' + swap["A"]],
-    "AnswerB": content['Answer' + swap["B"]],
-    "AnswerC": content['Answer' + swap["C"]],
+    "AnswerA": content[swap["newAnswerA"]],
+    "AnswerB": content[swap["newAnswerB"]],
+    "AnswerC": content[swap["newAnswerC"]],
     "CorrectAnswer": swap[content['CorrectAnswer']],
     "Voices": {
       "US": {
           "Question": content['Voices']['US']['Question'],
-          "AnswerA": content['Voices']['US']['Answer' + swap["A"]],
-          "AnswerB": content['Voices']['US']['Answer' + swap["B"]],
-          "AnswerC": content['Voices']['US']['Answer' + swap["C"]]
+          "AnswerA": content['Voices']['US'][swap["newAnswerA"]],
+          "AnswerB": content['Voices']['US'][swap["newAnswerB"]],
+          "AnswerC": content['Voices']['US'][swap["newAnswerC"]]
       },
       "IN": {
           "Question": content['Voices']['IN']['Question'],
-          "AnswerA": content['Voices']['IN']['Answer' + swap["A"]],
-          "AnswerB": content['Voices']['IN']['Answer' + swap["B"]],
-          "AnswerC": content['Voices']['IN']['Answer' + swap["C"]]
+          "AnswerA": content['Voices']['IN'][swap["newAnswerA"]],
+          "AnswerB": content['Voices']['IN'][swap["newAnswerB"]],
+          "AnswerC": content['Voices']['IN'][swap["newAnswerC"]]
       }
     }
   };
