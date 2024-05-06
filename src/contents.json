@@ -10998,5 +10998,2821 @@
                 "AnswerC": "./media/audio/exercise/IN_M500_answer3.mp3"
             }
         }
+    },
+    {
+        "ID": "M501",
+        "Question": "Are you going to the beach tomorrow morning?",
+        "AnswerA": "Please talk to each other.",
+        "AnswerB": "No, because it's too cold.",
+        "AnswerC": "Could you give me the tool?",
+        "CorrectAnswer": "B",
+        "Voices": {
+            "US": {
+                "Question": "./media/audio/exercise/US_M501_question.mp3",
+                "AnswerA": "./media/audio/exercise/US_M501_answer1.mp3",
+                "AnswerB": "./media/audio/exercise/US_M501_answer2.mp3",
+                "AnswerC": "./media/audio/exercise/US_M501_answer3.mp3"
+            },
+            "IN": {
+                "Question": "./media/audio/exercise/IN_M501_question.mp3",
+                "AnswerA": "./media/audio/exercise/IN_M501_answer1.mp3",
+                "AnswerB": "./media/audio/exercise/IN_M501_answer2.mp3",
+                "AnswerC": "./media/audio/exercise/IN_M501_answer3.mp3"
+            }
+        }
+    },
+    {
+        "ID": "M502",
+        "Question": "Who'll escort the guests to the Wang Hotel?",
+        "AnswerA": "The escalators on the West side.",
+        "AnswerB": "Why don't I handle that?",
+        "AnswerC": "They like the offer.",
+        "CorrectAnswer": "B",
+        "Voices": {
+            "US": {
+                "Question": "./media/audio/exercise/US_M502_question.mp3",
+                "AnswerA": "./media/audio/exercise/US_M502_answer1.mp3",
+                "AnswerB": "./media/audio/exercise/US_M502_answer2.mp3",
+                "AnswerC": "./media/audio/exercise/US_M502_answer3.mp3"
+            },
+            "IN": {
+                "Question": "./media/audio/exercise/IN_M502_question.mp3",
+                "AnswerA": "./media/audio/exercise/IN_M502_answer1.mp3",
+                "AnswerB": "./media/audio/exercise/IN_M502_answer2.mp3",
+                "AnswerC": "./media/audio/exercise/IN_M502_answer3.mp3"
+            }
+        }
+    },
+    {
+        "ID": "M503",
+        "Question": "How do you get to work?",
+        "AnswerA": "With some professors.",
+        "AnswerB": "The bus leaves every 30 minutes.",
+        "AnswerC": "I sometimes carpool.",
+        "CorrectAnswer": "C",
+        "Voices": {
+            "US": {
+                "Question": "./media/audio/exercise/US_M503_question.mp3",
+                "AnswerA": "./media/audio/exercise/US_M503_answer1.mp3",
+                "AnswerB": "./media/audio/exercise/US_M503_answer2.mp3",
+                "AnswerC": "./media/audio/exercise/US_M503_answer3.mp3"
+            },
+            "IN": {
+                "Question": "./media/audio/exercise/IN_M503_question.mp3",
+                "AnswerA": "./media/audio/exercise/IN_M503_answer1.mp3",
+                "AnswerB": "./media/audio/exercise/IN_M503_answer2.mp3",
+                "AnswerC": "./media/audio/exercise/IN_M503_answer3.mp3"
+            }
+        }
+    },
+    {
+        "ID": "M504",
+        "Question": "Why did you change the color of the design?",
+        "AnswerA": "I'll keep that in mind.",
+        "AnswerB": "The yellow was terrible.",
+        "AnswerC": "Don't let it go.",
+        "CorrectAnswer": "B",
+        "Voices": {
+            "US": {
+                "Question": "./media/audio/exercise/US_M504_question.mp3",
+                "AnswerA": "./media/audio/exercise/US_M504_answer1.mp3",
+                "AnswerB": "./media/audio/exercise/US_M504_answer2.mp3",
+                "AnswerC": "./media/audio/exercise/US_M504_answer3.mp3"
+            },
+            "IN": {
+                "Question": "./media/audio/exercise/IN_M504_question.mp3",
+                "AnswerA": "./media/audio/exercise/IN_M504_answer1.mp3",
+                "AnswerB": "./media/audio/exercise/IN_M504_answer2.mp3",
+                "AnswerC": "./media/audio/exercise/IN_M504_answer3.mp3"
+            }
+        }
+    },
+    {
+        "ID": "M505",
+        "Question": "Which bus is Mr. Cruz going to board?",
+        "AnswerA": "I heard Olivia will drive him.",
+        "AnswerB": "Only 1 1/2 hours.",
+        "AnswerC": "Over the border.",
+        "CorrectAnswer": "A",
+        "Voices": {
+            "US": {
+                "Question": "./media/audio/exercise/US_M505_question.mp3",
+                "AnswerA": "./media/audio/exercise/US_M505_answer1.mp3",
+                "AnswerB": "./media/audio/exercise/US_M505_answer2.mp3",
+                "AnswerC": "./media/audio/exercise/US_M505_answer3.mp3"
+            },
+            "IN": {
+                "Question": "./media/audio/exercise/IN_M505_question.mp3",
+                "AnswerA": "./media/audio/exercise/IN_M505_answer1.mp3",
+                "AnswerB": "./media/audio/exercise/IN_M505_answer2.mp3",
+                "AnswerC": "./media/audio/exercise/IN_M505_answer3.mp3"
+            }
+        }
+    },
+    {
+        "ID": "M506",
+        "Question": "Are you familiar with this neighborhood?",
+        "AnswerA": "I've met them several times.",
+        "AnswerB": "Do you want to look around?",
+        "AnswerC": "My family buys them.",
+        "CorrectAnswer": "B",
+        "Voices": {
+            "US": {
+                "Question": "./media/audio/exercise/US_M506_question.mp3",
+                "AnswerA": "./media/audio/exercise/US_M506_answer1.mp3",
+                "AnswerB": "./media/audio/exercise/US_M506_answer2.mp3",
+                "AnswerC": "./media/audio/exercise/US_M506_answer3.mp3"
+            },
+            "IN": {
+                "Question": "./media/audio/exercise/IN_M506_question.mp3",
+                "AnswerA": "./media/audio/exercise/IN_M506_answer1.mp3",
+                "AnswerB": "./media/audio/exercise/IN_M506_answer2.mp3",
+                "AnswerC": "./media/audio/exercise/IN_M506_answer3.mp3"
+            }
+        }
+    },
+    {
+        "ID": "M507",
+        "Question": "What's the next presenter going to talk about?",
+        "AnswerA": "Some of the usual topics this time?",
+        "AnswerB": "They are representatives from the participating nations.",
+        "AnswerC": "Go on to the next item.",
+        "CorrectAnswer": "A",
+        "Voices": {
+            "US": {
+                "Question": "./media/audio/exercise/US_M507_question.mp3",
+                "AnswerA": "./media/audio/exercise/US_M507_answer1.mp3",
+                "AnswerB": "./media/audio/exercise/US_M507_answer2.mp3",
+                "AnswerC": "./media/audio/exercise/US_M507_answer3.mp3"
+            },
+            "IN": {
+                "Question": "./media/audio/exercise/IN_M507_question.mp3",
+                "AnswerA": "./media/audio/exercise/IN_M507_answer1.mp3",
+                "AnswerB": "./media/audio/exercise/IN_M507_answer2.mp3",
+                "AnswerC": "./media/audio/exercise/IN_M507_answer3.mp3"
+            }
+        }
+    },
+    {
+        "ID": "M508",
+        "Question": "Would you happen to have some time after work?",
+        "AnswerA": "I usually go to work by train.",
+        "AnswerB": "Then what happened to him?",
+        "AnswerC": "No. Why do you ask?",
+        "CorrectAnswer": "C",
+        "Voices": {
+            "US": {
+                "Question": "./media/audio/exercise/US_M508_question.mp3",
+                "AnswerA": "./media/audio/exercise/US_M508_answer1.mp3",
+                "AnswerB": "./media/audio/exercise/US_M508_answer2.mp3",
+                "AnswerC": "./media/audio/exercise/US_M508_answer3.mp3"
+            },
+            "IN": {
+                "Question": "./media/audio/exercise/IN_M508_question.mp3",
+                "AnswerA": "./media/audio/exercise/IN_M508_answer1.mp3",
+                "AnswerB": "./media/audio/exercise/IN_M508_answer2.mp3",
+                "AnswerC": "./media/audio/exercise/IN_M508_answer3.mp3"
+            }
+        }
+    },
+    {
+        "ID": "M509",
+        "Question": "Miss Perry updated the lunch menu, didn't she?",
+        "AnswerA": "She will join us after work.",
+        "AnswerB": "Yes, she didn't change any.",
+        "AnswerC": "She's still waiting for the price list.",
+        "CorrectAnswer": "C",
+        "Voices": {
+            "US": {
+                "Question": "./media/audio/exercise/US_M509_question.mp3",
+                "AnswerA": "./media/audio/exercise/US_M509_answer1.mp3",
+                "AnswerB": "./media/audio/exercise/US_M509_answer2.mp3",
+                "AnswerC": "./media/audio/exercise/US_M509_answer3.mp3"
+            },
+            "IN": {
+                "Question": "./media/audio/exercise/IN_M509_question.mp3",
+                "AnswerA": "./media/audio/exercise/IN_M509_answer1.mp3",
+                "AnswerB": "./media/audio/exercise/IN_M509_answer2.mp3",
+                "AnswerC": "./media/audio/exercise/IN_M509_answer3.mp3"
+            }
+        }
+    },
+    {
+        "ID": "M510",
+        "Question": "Where is the best spot to take a picture around here?",
+        "AnswerA": "Do you want a view of the ocean?",
+        "AnswerB": "I put it a plant yesterday.",
+        "AnswerC": "It's the best meal I've ever had.",
+        "CorrectAnswer": "A",
+        "Voices": {
+            "US": {
+                "Question": "./media/audio/exercise/US_M510_question.mp3",
+                "AnswerA": "./media/audio/exercise/US_M510_answer1.mp3",
+                "AnswerB": "./media/audio/exercise/US_M510_answer2.mp3",
+                "AnswerC": "./media/audio/exercise/US_M510_answer3.mp3"
+            },
+            "IN": {
+                "Question": "./media/audio/exercise/IN_M510_question.mp3",
+                "AnswerA": "./media/audio/exercise/IN_M510_answer1.mp3",
+                "AnswerB": "./media/audio/exercise/IN_M510_answer2.mp3",
+                "AnswerC": "./media/audio/exercise/IN_M510_answer3.mp3"
+            }
+        }
+    },
+    {
+        "ID": "M511",
+        "Question": "Could you lead the aerobics session tomorrow morning?",
+        "AnswerA": "Boots should be allowed, I think.",
+        "AnswerB": "One financial analyst at a leading firm.",
+        "AnswerC": "I have to work the night shift tonight.",
+        "CorrectAnswer": "C",
+        "Voices": {
+            "US": {
+                "Question": "./media/audio/exercise/US_M511_question.mp3",
+                "AnswerA": "./media/audio/exercise/US_M511_answer1.mp3",
+                "AnswerB": "./media/audio/exercise/US_M511_answer2.mp3",
+                "AnswerC": "./media/audio/exercise/US_M511_answer3.mp3"
+            },
+            "IN": {
+                "Question": "./media/audio/exercise/IN_M511_question.mp3",
+                "AnswerA": "./media/audio/exercise/IN_M511_answer1.mp3",
+                "AnswerB": "./media/audio/exercise/IN_M511_answer2.mp3",
+                "AnswerC": "./media/audio/exercise/IN_M511_answer3.mp3"
+            }
+        }
+    },
+    {
+        "ID": "M512",
+        "Question": "Haven't you seen my scarf in this room?",
+        "AnswerA": "It's starting to snow.",
+        "AnswerB": "What does it look like?",
+        "AnswerC": "I heard he'll check the number.",
+        "CorrectAnswer": "B",
+        "Voices": {
+            "US": {
+                "Question": "./media/audio/exercise/US_M512_question.mp3",
+                "AnswerA": "./media/audio/exercise/US_M512_answer1.mp3",
+                "AnswerB": "./media/audio/exercise/US_M512_answer2.mp3",
+                "AnswerC": "./media/audio/exercise/US_M512_answer3.mp3"
+            },
+            "IN": {
+                "Question": "./media/audio/exercise/IN_M512_question.mp3",
+                "AnswerA": "./media/audio/exercise/IN_M512_answer1.mp3",
+                "AnswerB": "./media/audio/exercise/IN_M512_answer2.mp3",
+                "AnswerC": "./media/audio/exercise/IN_M512_answer3.mp3"
+            }
+        }
+    },
+    {
+        "ID": "M513",
+        "Question": "Howard Where is the schedule for next week's production?",
+        "AnswerA": "The next week is fine.",
+        "AnswerB": "The original one is in Taro's drawer.",
+        "AnswerC": "Please get some Flyers from the receptionist.",
+        "CorrectAnswer": "B",
+        "Voices": {
+            "US": {
+                "Question": "./media/audio/exercise/US_M513_question.mp3",
+                "AnswerA": "./media/audio/exercise/US_M513_answer1.mp3",
+                "AnswerB": "./media/audio/exercise/US_M513_answer2.mp3",
+                "AnswerC": "./media/audio/exercise/US_M513_answer3.mp3"
+            },
+            "IN": {
+                "Question": "./media/audio/exercise/IN_M513_question.mp3",
+                "AnswerA": "./media/audio/exercise/IN_M513_answer1.mp3",
+                "AnswerB": "./media/audio/exercise/IN_M513_answer2.mp3",
+                "AnswerC": "./media/audio/exercise/IN_M513_answer3.mp3"
+            }
+        }
+    },
+    {
+        "ID": "M514",
+        "Question": "How long does it take to get to your office?",
+        "AnswerA": "Twice a week.",
+        "AnswerB": "What would you use?",
+        "AnswerC": "About a dozen.",
+        "CorrectAnswer": "B",
+        "Voices": {
+            "US": {
+                "Question": "./media/audio/exercise/US_M514_question.mp3",
+                "AnswerA": "./media/audio/exercise/US_M514_answer1.mp3",
+                "AnswerB": "./media/audio/exercise/US_M514_answer2.mp3",
+                "AnswerC": "./media/audio/exercise/US_M514_answer3.mp3"
+            },
+            "IN": {
+                "Question": "./media/audio/exercise/IN_M514_question.mp3",
+                "AnswerA": "./media/audio/exercise/IN_M514_answer1.mp3",
+                "AnswerB": "./media/audio/exercise/IN_M514_answer2.mp3",
+                "AnswerC": "./media/audio/exercise/IN_M514_answer3.mp3"
+            }
+        }
+    },
+    {
+        "ID": "M515",
+        "Question": "The executives from our partner company have just arrived.",
+        "AnswerA": "We need to let the manager know.",
+        "AnswerB": "I'm from Australia.",
+        "AnswerC": "The hotel should be nicer.",
+        "CorrectAnswer": "A",
+        "Voices": {
+            "US": {
+                "Question": "./media/audio/exercise/US_M515_question.mp3",
+                "AnswerA": "./media/audio/exercise/US_M515_answer1.mp3",
+                "AnswerB": "./media/audio/exercise/US_M515_answer2.mp3",
+                "AnswerC": "./media/audio/exercise/US_M515_answer3.mp3"
+            },
+            "IN": {
+                "Question": "./media/audio/exercise/IN_M515_question.mp3",
+                "AnswerA": "./media/audio/exercise/IN_M515_answer1.mp3",
+                "AnswerB": "./media/audio/exercise/IN_M515_answer2.mp3",
+                "AnswerC": "./media/audio/exercise/IN_M515_answer3.mp3"
+            }
+        }
+    },
+    {
+        "ID": "M516",
+        "Question": "Where did you buy the office stationery?",
+        "AnswerA": "From a new supplier.",
+        "AnswerB": "In the morning.",
+        "AnswerC": "Mr. Hale.",
+        "CorrectAnswer": "A",
+        "Voices": {
+            "US": {
+                "Question": "./media/audio/exercise/US_M516_question.mp3",
+                "AnswerA": "./media/audio/exercise/US_M516_answer1.mp3",
+                "AnswerB": "./media/audio/exercise/US_M516_answer2.mp3",
+                "AnswerC": "./media/audio/exercise/US_M516_answer3.mp3"
+            },
+            "IN": {
+                "Question": "./media/audio/exercise/IN_M516_question.mp3",
+                "AnswerA": "./media/audio/exercise/IN_M516_answer1.mp3",
+                "AnswerB": "./media/audio/exercise/IN_M516_answer2.mp3",
+                "AnswerC": "./media/audio/exercise/IN_M516_answer3.mp3"
+            }
+        }
+    },
+    {
+        "ID": "M517",
+        "Question": "Harold, you have a call from Miss Reynolds on line 3.",
+        "AnswerA": "Tell her I'm tied up with the meeting.",
+        "AnswerB": "Oh, is it that cold?",
+        "AnswerC": "Can I have a message?",
+        "CorrectAnswer": "A",
+        "Voices": {
+            "US": {
+                "Question": "./media/audio/exercise/US_M517_question.mp3",
+                "AnswerA": "./media/audio/exercise/US_M517_answer1.mp3",
+                "AnswerB": "./media/audio/exercise/US_M517_answer2.mp3",
+                "AnswerC": "./media/audio/exercise/US_M517_answer3.mp3"
+            },
+            "IN": {
+                "Question": "./media/audio/exercise/IN_M517_question.mp3",
+                "AnswerA": "./media/audio/exercise/IN_M517_answer1.mp3",
+                "AnswerB": "./media/audio/exercise/IN_M517_answer2.mp3",
+                "AnswerC": "./media/audio/exercise/IN_M517_answer3.mp3"
+            }
+        }
+    },
+    {
+        "ID": "M518",
+        "Question": "Did you confirm your reservation with the travel agent?",
+        "AnswerA": "Could you reserve a table?",
+        "AnswerB": "I'm planning to travel abroad.",
+        "AnswerC": "Yes, I did.",
+        "CorrectAnswer": "C",
+        "Voices": {
+            "US": {
+                "Question": "./media/audio/exercise/US_M518_question.mp3",
+                "AnswerA": "./media/audio/exercise/US_M518_answer1.mp3",
+                "AnswerB": "./media/audio/exercise/US_M518_answer2.mp3",
+                "AnswerC": "./media/audio/exercise/US_M518_answer3.mp3"
+            },
+            "IN": {
+                "Question": "./media/audio/exercise/IN_M518_question.mp3",
+                "AnswerA": "./media/audio/exercise/IN_M518_answer1.mp3",
+                "AnswerB": "./media/audio/exercise/IN_M518_answer2.mp3",
+                "AnswerC": "./media/audio/exercise/IN_M518_answer3.mp3"
+            }
+        }
+    },
+    {
+        "ID": "M519",
+        "Question": "Why hasn't the shipment arrived?",
+        "AnswerA": "We didn't order any.",
+        "AnswerB": "For a live music concert.",
+        "AnswerC": "I don't think we're late.",
+        "CorrectAnswer": "A",
+        "Voices": {
+            "US": {
+                "Question": "./media/audio/exercise/US_M519_question.mp3",
+                "AnswerA": "./media/audio/exercise/US_M519_answer1.mp3",
+                "AnswerB": "./media/audio/exercise/US_M519_answer2.mp3",
+                "AnswerC": "./media/audio/exercise/US_M519_answer3.mp3"
+            },
+            "IN": {
+                "Question": "./media/audio/exercise/IN_M519_question.mp3",
+                "AnswerA": "./media/audio/exercise/IN_M519_answer1.mp3",
+                "AnswerB": "./media/audio/exercise/IN_M519_answer2.mp3",
+                "AnswerC": "./media/audio/exercise/IN_M519_answer3.mp3"
+            }
+        }
+    },
+    {
+        "ID": "M520",
+        "Question": "Could you tell me how I should landscape this area?",
+        "AnswerA": "The landscaping company is in Dallas.",
+        "AnswerB": "In preparation for landing.",
+        "AnswerC": "Obtain a permit from the city 1st.",
+        "CorrectAnswer": "C",
+        "Voices": {
+            "US": {
+                "Question": "./media/audio/exercise/US_M520_question.mp3",
+                "AnswerA": "./media/audio/exercise/US_M520_answer1.mp3",
+                "AnswerB": "./media/audio/exercise/US_M520_answer2.mp3",
+                "AnswerC": "./media/audio/exercise/US_M520_answer3.mp3"
+            },
+            "IN": {
+                "Question": "./media/audio/exercise/IN_M520_question.mp3",
+                "AnswerA": "./media/audio/exercise/IN_M520_answer1.mp3",
+                "AnswerB": "./media/audio/exercise/IN_M520_answer2.mp3",
+                "AnswerC": "./media/audio/exercise/IN_M520_answer3.mp3"
+            }
+        }
+    },
+    {
+        "ID": "M521",
+        "Question": "Do you mind watering my plants while I'm away?",
+        "AnswerA": "Someone is sitting there.",
+        "AnswerB": "No, but I have some questions.",
+        "AnswerC": "Yes, I'm not going to the pool.",
+        "CorrectAnswer": "B",
+        "Voices": {
+            "US": {
+                "Question": "./media/audio/exercise/US_M521_question.mp3",
+                "AnswerA": "./media/audio/exercise/US_M521_answer1.mp3",
+                "AnswerB": "./media/audio/exercise/US_M521_answer2.mp3",
+                "AnswerC": "./media/audio/exercise/US_M521_answer3.mp3"
+            },
+            "IN": {
+                "Question": "./media/audio/exercise/IN_M521_question.mp3",
+                "AnswerA": "./media/audio/exercise/IN_M521_answer1.mp3",
+                "AnswerB": "./media/audio/exercise/IN_M521_answer2.mp3",
+                "AnswerC": "./media/audio/exercise/IN_M521_answer3.mp3"
+            }
+        }
+    },
+    {
+        "ID": "M522",
+        "Question": "#19",
+        "AnswerA": "When will the auditors arrive?",
+        "AnswerB": "A. A small audio speaker should be good B by the time the initial construction is complete.",
+        "AnswerC": "C at the production area.",
+        "CorrectAnswer": "B",
+        "Voices": {
+            "US": {
+                "Question": "./media/audio/exercise/US_M522_question.mp3",
+                "AnswerA": "./media/audio/exercise/US_M522_answer1.mp3",
+                "AnswerB": "./media/audio/exercise/US_M522_answer2.mp3",
+                "AnswerC": "./media/audio/exercise/US_M522_answer3.mp3"
+            },
+            "IN": {
+                "Question": "./media/audio/exercise/IN_M522_question.mp3",
+                "AnswerA": "./media/audio/exercise/IN_M522_answer1.mp3",
+                "AnswerB": "./media/audio/exercise/IN_M522_answer2.mp3",
+                "AnswerC": "./media/audio/exercise/IN_M522_answer3.mp3"
+            }
+        }
+    },
+    {
+        "ID": "M523",
+        "Question": "How much does the one way ticket to Hawaii cost?",
+        "AnswerA": "Same as the last time.",
+        "AnswerB": "Your credit card is accepted.",
+        "AnswerC": "Unless a cancellation has come up.",
+        "CorrectAnswer": "A",
+        "Voices": {
+            "US": {
+                "Question": "./media/audio/exercise/US_M523_question.mp3",
+                "AnswerA": "./media/audio/exercise/US_M523_answer1.mp3",
+                "AnswerB": "./media/audio/exercise/US_M523_answer2.mp3",
+                "AnswerC": "./media/audio/exercise/US_M523_answer3.mp3"
+            },
+            "IN": {
+                "Question": "./media/audio/exercise/IN_M523_question.mp3",
+                "AnswerA": "./media/audio/exercise/IN_M523_answer1.mp3",
+                "AnswerB": "./media/audio/exercise/IN_M523_answer2.mp3",
+                "AnswerC": "./media/audio/exercise/IN_M523_answer3.mp3"
+            }
+        }
+    },
+    {
+        "ID": "M524",
+        "Question": "Why are our machine parts running low?",
+        "AnswerA": "Raw materials will be needed.",
+        "AnswerB": "Over there on the left.",
+        "AnswerC": "Our inventory policy has been changed.",
+        "CorrectAnswer": "C",
+        "Voices": {
+            "US": {
+                "Question": "./media/audio/exercise/US_M524_question.mp3",
+                "AnswerA": "./media/audio/exercise/US_M524_answer1.mp3",
+                "AnswerB": "./media/audio/exercise/US_M524_answer2.mp3",
+                "AnswerC": "./media/audio/exercise/US_M524_answer3.mp3"
+            },
+            "IN": {
+                "Question": "./media/audio/exercise/IN_M524_question.mp3",
+                "AnswerA": "./media/audio/exercise/IN_M524_answer1.mp3",
+                "AnswerB": "./media/audio/exercise/IN_M524_answer2.mp3",
+                "AnswerC": "./media/audio/exercise/IN_M524_answer3.mp3"
+            }
+        }
+    },
+    {
+        "ID": "M525",
+        "Question": "Should I move the desk first or clean this room?",
+        "AnswerA": "Whichever you prefer.",
+        "AnswerB": "It's been provided.",
+        "AnswerC": "They're running fast.",
+        "CorrectAnswer": "A",
+        "Voices": {
+            "US": {
+                "Question": "./media/audio/exercise/US_M525_question.mp3",
+                "AnswerA": "./media/audio/exercise/US_M525_answer1.mp3",
+                "AnswerB": "./media/audio/exercise/US_M525_answer2.mp3",
+                "AnswerC": "./media/audio/exercise/US_M525_answer3.mp3"
+            },
+            "IN": {
+                "Question": "./media/audio/exercise/IN_M525_question.mp3",
+                "AnswerA": "./media/audio/exercise/IN_M525_answer1.mp3",
+                "AnswerB": "./media/audio/exercise/IN_M525_answer2.mp3",
+                "AnswerC": "./media/audio/exercise/IN_M525_answer3.mp3"
+            }
+        }
+    },
+    {
+        "ID": "M526",
+        "Question": "I need the whole content of the directory.",
+        "AnswerA": "A direct flight is not available.",
+        "AnswerB": "I'm unsure of its location.",
+        "AnswerC": "Place it in numerical order.",
+        "CorrectAnswer": "B",
+        "Voices": {
+            "US": {
+                "Question": "./media/audio/exercise/US_M526_question.mp3",
+                "AnswerA": "./media/audio/exercise/US_M526_answer1.mp3",
+                "AnswerB": "./media/audio/exercise/US_M526_answer2.mp3",
+                "AnswerC": "./media/audio/exercise/US_M526_answer3.mp3"
+            },
+            "IN": {
+                "Question": "./media/audio/exercise/IN_M526_question.mp3",
+                "AnswerA": "./media/audio/exercise/IN_M526_answer1.mp3",
+                "AnswerB": "./media/audio/exercise/IN_M526_answer2.mp3",
+                "AnswerC": "./media/audio/exercise/IN_M526_answer3.mp3"
+            }
+        }
+    },
+    {
+        "ID": "M527",
+        "Question": "When's your next business trip?",
+        "AnswerA": "It's costlier than I thought.",
+        "AnswerB": "The class takes place in Dublin.",
+        "AnswerC": "I have no plans for one.",
+        "CorrectAnswer": "C",
+        "Voices": {
+            "US": {
+                "Question": "./media/audio/exercise/US_M527_question.mp3",
+                "AnswerA": "./media/audio/exercise/US_M527_answer1.mp3",
+                "AnswerB": "./media/audio/exercise/US_M527_answer2.mp3",
+                "AnswerC": "./media/audio/exercise/US_M527_answer3.mp3"
+            },
+            "IN": {
+                "Question": "./media/audio/exercise/IN_M527_question.mp3",
+                "AnswerA": "./media/audio/exercise/IN_M527_answer1.mp3",
+                "AnswerB": "./media/audio/exercise/IN_M527_answer2.mp3",
+                "AnswerC": "./media/audio/exercise/IN_M527_answer3.mp3"
+            }
+        }
+    },
+    {
+        "ID": "M528",
+        "Question": "When do you think the construction will be finished?",
+        "AnswerA": "Due to delays.",
+        "AnswerB": "Some chairs will be furnished tomorrow.",
+        "AnswerC": "Didn't some newspapers say it's uncertain?",
+        "CorrectAnswer": "C",
+        "Voices": {
+            "US": {
+                "Question": "./media/audio/exercise/US_M528_question.mp3",
+                "AnswerA": "./media/audio/exercise/US_M528_answer1.mp3",
+                "AnswerB": "./media/audio/exercise/US_M528_answer2.mp3",
+                "AnswerC": "./media/audio/exercise/US_M528_answer3.mp3"
+            },
+            "IN": {
+                "Question": "./media/audio/exercise/IN_M528_question.mp3",
+                "AnswerA": "./media/audio/exercise/IN_M528_answer1.mp3",
+                "AnswerB": "./media/audio/exercise/IN_M528_answer2.mp3",
+                "AnswerC": "./media/audio/exercise/IN_M528_answer3.mp3"
+            }
+        }
+    },
+    {
+        "ID": "M529",
+        "Question": "Could you inform us of any change of your address?",
+        "AnswerA": "I don't think that's a problem.",
+        "AnswerB": "It's a very informative material.",
+        "AnswerC": "Keep the change please.",
+        "CorrectAnswer": "A",
+        "Voices": {
+            "US": {
+                "Question": "./media/audio/exercise/US_M529_question.mp3",
+                "AnswerA": "./media/audio/exercise/US_M529_answer1.mp3",
+                "AnswerB": "./media/audio/exercise/US_M529_answer2.mp3",
+                "AnswerC": "./media/audio/exercise/US_M529_answer3.mp3"
+            },
+            "IN": {
+                "Question": "./media/audio/exercise/IN_M529_question.mp3",
+                "AnswerA": "./media/audio/exercise/IN_M529_answer1.mp3",
+                "AnswerB": "./media/audio/exercise/IN_M529_answer2.mp3",
+                "AnswerC": "./media/audio/exercise/IN_M529_answer3.mp3"
+            }
+        }
+    },
+    {
+        "ID": "M530",
+        "Question": "Have you been to the new Italian restaurant?",
+        "AnswerA": "Some coffee beans could be bought.",
+        "AnswerB": "You really need to get a rest.",
+        "AnswerC": "Has it already opened?",
+        "CorrectAnswer": "C",
+        "Voices": {
+            "US": {
+                "Question": "./media/audio/exercise/US_M530_question.mp3",
+                "AnswerA": "./media/audio/exercise/US_M530_answer1.mp3",
+                "AnswerB": "./media/audio/exercise/US_M530_answer2.mp3",
+                "AnswerC": "./media/audio/exercise/US_M530_answer3.mp3"
+            },
+            "IN": {
+                "Question": "./media/audio/exercise/IN_M530_question.mp3",
+                "AnswerA": "./media/audio/exercise/IN_M530_answer1.mp3",
+                "AnswerB": "./media/audio/exercise/IN_M530_answer2.mp3",
+                "AnswerC": "./media/audio/exercise/IN_M530_answer3.mp3"
+            }
+        }
+    },
+    {
+        "ID": "M531",
+        "Question": "The photography competition starts next week, doesn't it?",
+        "AnswerA": "No, tomorrow.",
+        "AnswerB": "Is there any musical performance?",
+        "AnswerC": "Just leave it next door.",
+        "CorrectAnswer": "A",
+        "Voices": {
+            "US": {
+                "Question": "./media/audio/exercise/US_M531_question.mp3",
+                "AnswerA": "./media/audio/exercise/US_M531_answer1.mp3",
+                "AnswerB": "./media/audio/exercise/US_M531_answer2.mp3",
+                "AnswerC": "./media/audio/exercise/US_M531_answer3.mp3"
+            },
+            "IN": {
+                "Question": "./media/audio/exercise/IN_M531_question.mp3",
+                "AnswerA": "./media/audio/exercise/IN_M531_answer1.mp3",
+                "AnswerB": "./media/audio/exercise/IN_M531_answer2.mp3",
+                "AnswerC": "./media/audio/exercise/IN_M531_answer3.mp3"
+            }
+        }
+    },
+    {
+        "ID": "M532",
+        "Question": "Why was the annual audit postponed at the last minute?",
+        "AnswerA": "I'll stop by a music practice studio.",
+        "AnswerB": "There seemed to be a mechanical issue.",
+        "AnswerC": "Don't worry, I'm coming tomorrow.",
+        "CorrectAnswer": "B",
+        "Voices": {
+            "US": {
+                "Question": "./media/audio/exercise/US_M532_question.mp3",
+                "AnswerA": "./media/audio/exercise/US_M532_answer1.mp3",
+                "AnswerB": "./media/audio/exercise/US_M532_answer2.mp3",
+                "AnswerC": "./media/audio/exercise/US_M532_answer3.mp3"
+            },
+            "IN": {
+                "Question": "./media/audio/exercise/IN_M532_question.mp3",
+                "AnswerA": "./media/audio/exercise/IN_M532_answer1.mp3",
+                "AnswerB": "./media/audio/exercise/IN_M532_answer2.mp3",
+                "AnswerC": "./media/audio/exercise/IN_M532_answer3.mp3"
+            }
+        }
+    },
+    {
+        "ID": "M533",
+        "Question": "Most of the tables are very dirty, aren't they?",
+        "AnswerA": "We're not able to do it.",
+        "AnswerB": "I reserved a room for tonight.",
+        "AnswerC": "Do you need a cloth?",
+        "CorrectAnswer": "C",
+        "Voices": {
+            "US": {
+                "Question": "./media/audio/exercise/US_M533_question.mp3",
+                "AnswerA": "./media/audio/exercise/US_M533_answer1.mp3",
+                "AnswerB": "./media/audio/exercise/US_M533_answer2.mp3",
+                "AnswerC": "./media/audio/exercise/US_M533_answer3.mp3"
+            },
+            "IN": {
+                "Question": "./media/audio/exercise/IN_M533_question.mp3",
+                "AnswerA": "./media/audio/exercise/IN_M533_answer1.mp3",
+                "AnswerB": "./media/audio/exercise/IN_M533_answer2.mp3",
+                "AnswerC": "./media/audio/exercise/IN_M533_answer3.mp3"
+            }
+        }
+    },
+    {
+        "ID": "M534",
+        "Question": "Should I wear a tie or can I wear AT shirt?",
+        "AnswerA": "I like the design on it.",
+        "AnswerB": "Formal attire should be acceptable.",
+        "AnswerC": "It's much too cold outside.",
+        "CorrectAnswer": "B",
+        "Voices": {
+            "US": {
+                "Question": "./media/audio/exercise/US_M534_question.mp3",
+                "AnswerA": "./media/audio/exercise/US_M534_answer1.mp3",
+                "AnswerB": "./media/audio/exercise/US_M534_answer2.mp3",
+                "AnswerC": "./media/audio/exercise/US_M534_answer3.mp3"
+            },
+            "IN": {
+                "Question": "./media/audio/exercise/IN_M534_question.mp3",
+                "AnswerA": "./media/audio/exercise/IN_M534_answer1.mp3",
+                "AnswerB": "./media/audio/exercise/IN_M534_answer2.mp3",
+                "AnswerC": "./media/audio/exercise/IN_M534_answer3.mp3"
+            }
+        }
+    },
+    {
+        "ID": "M535",
+        "Question": "Who will be coming to our museum as a guest next week?",
+        "AnswerA": "As our way of thanking you.",
+        "AnswerB": "They're among local artists.",
+        "AnswerC": "Miss William is using it now.",
+        "CorrectAnswer": "B",
+        "Voices": {
+            "US": {
+                "Question": "./media/audio/exercise/US_M535_question.mp3",
+                "AnswerA": "./media/audio/exercise/US_M535_answer1.mp3",
+                "AnswerB": "./media/audio/exercise/US_M535_answer2.mp3",
+                "AnswerC": "./media/audio/exercise/US_M535_answer3.mp3"
+            },
+            "IN": {
+                "Question": "./media/audio/exercise/IN_M535_question.mp3",
+                "AnswerA": "./media/audio/exercise/IN_M535_answer1.mp3",
+                "AnswerB": "./media/audio/exercise/IN_M535_answer2.mp3",
+                "AnswerC": "./media/audio/exercise/IN_M535_answer3.mp3"
+            }
+        }
+    },
+    {
+        "ID": "M536",
+        "Question": "When will you order your business cards?",
+        "AnswerA": "Once my title's been changed.",
+        "AnswerB": "Just 100 please.",
+        "AnswerC": "It'll begin on Hwy. 12.",
+        "CorrectAnswer": "A",
+        "Voices": {
+            "US": {
+                "Question": "./media/audio/exercise/US_M536_question.mp3",
+                "AnswerA": "./media/audio/exercise/US_M536_answer1.mp3",
+                "AnswerB": "./media/audio/exercise/US_M536_answer2.mp3",
+                "AnswerC": "./media/audio/exercise/US_M536_answer3.mp3"
+            },
+            "IN": {
+                "Question": "./media/audio/exercise/IN_M536_question.mp3",
+                "AnswerA": "./media/audio/exercise/IN_M536_answer1.mp3",
+                "AnswerB": "./media/audio/exercise/IN_M536_answer2.mp3",
+                "AnswerC": "./media/audio/exercise/IN_M536_answer3.mp3"
+            }
+        }
+    },
+    {
+        "ID": "M537",
+        "Question": "How long does the show last?",
+        "AnswerA": "I haven't been there in a while.",
+        "AnswerB": "Near the Playhouse.",
+        "AnswerC": "Which show are you talking about?",
+        "CorrectAnswer": "C",
+        "Voices": {
+            "US": {
+                "Question": "./media/audio/exercise/US_M537_question.mp3",
+                "AnswerA": "./media/audio/exercise/US_M537_answer1.mp3",
+                "AnswerB": "./media/audio/exercise/US_M537_answer2.mp3",
+                "AnswerC": "./media/audio/exercise/US_M537_answer3.mp3"
+            },
+            "IN": {
+                "Question": "./media/audio/exercise/IN_M537_question.mp3",
+                "AnswerA": "./media/audio/exercise/IN_M537_answer1.mp3",
+                "AnswerB": "./media/audio/exercise/IN_M537_answer2.mp3",
+                "AnswerC": "./media/audio/exercise/IN_M537_answer3.mp3"
+            }
+        }
+    },
+    {
+        "ID": "M538",
+        "Question": "You'll be reimbursed at the end of the month.",
+        "AnswerA": "Paid vacation.",
+        "AnswerB": "From another department.",
+        "AnswerC": "I'll keep that in mind.",
+        "CorrectAnswer": "C",
+        "Voices": {
+            "US": {
+                "Question": "./media/audio/exercise/US_M538_question.mp3",
+                "AnswerA": "./media/audio/exercise/US_M538_answer1.mp3",
+                "AnswerB": "./media/audio/exercise/US_M538_answer2.mp3",
+                "AnswerC": "./media/audio/exercise/US_M538_answer3.mp3"
+            },
+            "IN": {
+                "Question": "./media/audio/exercise/IN_M538_question.mp3",
+                "AnswerA": "./media/audio/exercise/IN_M538_answer1.mp3",
+                "AnswerB": "./media/audio/exercise/IN_M538_answer2.mp3",
+                "AnswerC": "./media/audio/exercise/IN_M538_answer3.mp3"
+            }
+        }
+    },
+    {
+        "ID": "M539",
+        "Question": "Can I get you anything from the pharmacy?",
+        "AnswerA": "We finally found a new partner.",
+        "AnswerB": "I went there this morning.",
+        "AnswerC": "Some coupons should be useful.",
+        "CorrectAnswer": "B",
+        "Voices": {
+            "US": {
+                "Question": "./media/audio/exercise/US_M539_question.mp3",
+                "AnswerA": "./media/audio/exercise/US_M539_answer1.mp3",
+                "AnswerB": "./media/audio/exercise/US_M539_answer2.mp3",
+                "AnswerC": "./media/audio/exercise/US_M539_answer3.mp3"
+            },
+            "IN": {
+                "Question": "./media/audio/exercise/IN_M539_question.mp3",
+                "AnswerA": "./media/audio/exercise/IN_M539_answer1.mp3",
+                "AnswerB": "./media/audio/exercise/IN_M539_answer2.mp3",
+                "AnswerC": "./media/audio/exercise/IN_M539_answer3.mp3"
+            }
+        }
+    },
+    {
+        "ID": "M540",
+        "Question": "Mr. Allen was promoted to Division director in just one year.",
+        "AnswerA": "Will more proceeds be needed?",
+        "AnswerB": "He deserves it.",
+        "AnswerC": "Congratulations on your promotion.",
+        "CorrectAnswer": "B",
+        "Voices": {
+            "US": {
+                "Question": "./media/audio/exercise/US_M540_question.mp3",
+                "AnswerA": "./media/audio/exercise/US_M540_answer1.mp3",
+                "AnswerB": "./media/audio/exercise/US_M540_answer2.mp3",
+                "AnswerC": "./media/audio/exercise/US_M540_answer3.mp3"
+            },
+            "IN": {
+                "Question": "./media/audio/exercise/IN_M540_question.mp3",
+                "AnswerA": "./media/audio/exercise/IN_M540_answer1.mp3",
+                "AnswerB": "./media/audio/exercise/IN_M540_answer2.mp3",
+                "AnswerC": "./media/audio/exercise/IN_M540_answer3.mp3"
+            }
+        }
+    },
+    {
+        "ID": "M541",
+        "Question": "What was today's meeting about?",
+        "AnswerA": "Updates on an upcoming event.",
+        "AnswerB": "On a daily basis.",
+        "AnswerC": "That's about it.",
+        "CorrectAnswer": "A",
+        "Voices": {
+            "US": {
+                "Question": "./media/audio/exercise/US_M541_question.mp3",
+                "AnswerA": "./media/audio/exercise/US_M541_answer1.mp3",
+                "AnswerB": "./media/audio/exercise/US_M541_answer2.mp3",
+                "AnswerC": "./media/audio/exercise/US_M541_answer3.mp3"
+            },
+            "IN": {
+                "Question": "./media/audio/exercise/IN_M541_question.mp3",
+                "AnswerA": "./media/audio/exercise/IN_M541_answer1.mp3",
+                "AnswerB": "./media/audio/exercise/IN_M541_answer2.mp3",
+                "AnswerC": "./media/audio/exercise/IN_M541_answer3.mp3"
+            }
+        }
+    },
+    {
+        "ID": "M542",
+        "Question": "When does the new product campaign begin?",
+        "AnswerA": "Let's go camping.",
+        "AnswerB": "It's finished.",
+        "AnswerC": "To boost sales.",
+        "CorrectAnswer": "B",
+        "Voices": {
+            "US": {
+                "Question": "./media/audio/exercise/US_M542_question.mp3",
+                "AnswerA": "./media/audio/exercise/US_M542_answer1.mp3",
+                "AnswerB": "./media/audio/exercise/US_M542_answer2.mp3",
+                "AnswerC": "./media/audio/exercise/US_M542_answer3.mp3"
+            },
+            "IN": {
+                "Question": "./media/audio/exercise/IN_M542_question.mp3",
+                "AnswerA": "./media/audio/exercise/IN_M542_answer1.mp3",
+                "AnswerB": "./media/audio/exercise/IN_M542_answer2.mp3",
+                "AnswerC": "./media/audio/exercise/IN_M542_answer3.mp3"
+            }
+        }
+    },
+    {
+        "ID": "M543",
+        "Question": "Whose idea was finally chosen for next year's event.",
+        "AnswerA": "We don't know yet.",
+        "AnswerB": "Just chop the vegetables.",
+        "AnswerC": "I'm seriously thinking of the idea.",
+        "CorrectAnswer": "A",
+        "Voices": {
+            "US": {
+                "Question": "./media/audio/exercise/US_M543_question.mp3",
+                "AnswerA": "./media/audio/exercise/US_M543_answer1.mp3",
+                "AnswerB": "./media/audio/exercise/US_M543_answer2.mp3",
+                "AnswerC": "./media/audio/exercise/US_M543_answer3.mp3"
+            },
+            "IN": {
+                "Question": "./media/audio/exercise/IN_M543_question.mp3",
+                "AnswerA": "./media/audio/exercise/IN_M543_answer1.mp3",
+                "AnswerB": "./media/audio/exercise/IN_M543_answer2.mp3",
+                "AnswerC": "./media/audio/exercise/IN_M543_answer3.mp3"
+            }
+        }
+    },
+    {
+        "ID": "M544",
+        "Question": "How do I renew my password?",
+        "AnswerA": "My train pass has expired.",
+        "AnswerB": "The technician will tell us the procedure.",
+        "AnswerC": "No, it's not new.",
+        "CorrectAnswer": "B",
+        "Voices": {
+            "US": {
+                "Question": "./media/audio/exercise/US_M544_question.mp3",
+                "AnswerA": "./media/audio/exercise/US_M544_answer1.mp3",
+                "AnswerB": "./media/audio/exercise/US_M544_answer2.mp3",
+                "AnswerC": "./media/audio/exercise/US_M544_answer3.mp3"
+            },
+            "IN": {
+                "Question": "./media/audio/exercise/IN_M544_question.mp3",
+                "AnswerA": "./media/audio/exercise/IN_M544_answer1.mp3",
+                "AnswerB": "./media/audio/exercise/IN_M544_answer2.mp3",
+                "AnswerC": "./media/audio/exercise/IN_M544_answer3.mp3"
+            }
+        }
+    },
+    {
+        "ID": "M545",
+        "Question": "The film festivals finished much earlier than we expected.",
+        "AnswerA": "Could we change our flight?",
+        "AnswerB": "We still have plenty of paper.",
+        "AnswerC": "I think you will.",
+        "CorrectAnswer": "A",
+        "Voices": {
+            "US": {
+                "Question": "./media/audio/exercise/US_M545_question.mp3",
+                "AnswerA": "./media/audio/exercise/US_M545_answer1.mp3",
+                "AnswerB": "./media/audio/exercise/US_M545_answer2.mp3",
+                "AnswerC": "./media/audio/exercise/US_M545_answer3.mp3"
+            },
+            "IN": {
+                "Question": "./media/audio/exercise/IN_M545_question.mp3",
+                "AnswerA": "./media/audio/exercise/IN_M545_answer1.mp3",
+                "AnswerB": "./media/audio/exercise/IN_M545_answer2.mp3",
+                "AnswerC": "./media/audio/exercise/IN_M545_answer3.mp3"
+            }
+        }
+    },
+    {
+        "ID": "M546",
+        "Question": "Where is the new price list?",
+        "AnswerA": "The menu will be changed regularly.",
+        "AnswerB": "Oh, I thought you made it.",
+        "AnswerC": "Could I get a discount?",
+        "CorrectAnswer": "B",
+        "Voices": {
+            "US": {
+                "Question": "./media/audio/exercise/US_M546_question.mp3",
+                "AnswerA": "./media/audio/exercise/US_M546_answer1.mp3",
+                "AnswerB": "./media/audio/exercise/US_M546_answer2.mp3",
+                "AnswerC": "./media/audio/exercise/US_M546_answer3.mp3"
+            },
+            "IN": {
+                "Question": "./media/audio/exercise/IN_M546_question.mp3",
+                "AnswerA": "./media/audio/exercise/IN_M546_answer1.mp3",
+                "AnswerB": "./media/audio/exercise/IN_M546_answer2.mp3",
+                "AnswerC": "./media/audio/exercise/IN_M546_answer3.mp3"
+            }
+        }
+    },
+    {
+        "ID": "M547",
+        "Question": "Did you have a chance to review this blueprint with your team?",
+        "AnswerA": "I've been busy recently.",
+        "AnswerB": "We had budget problems.",
+        "AnswerC": "A Good opportunity.",
+        "CorrectAnswer": "A",
+        "Voices": {
+            "US": {
+                "Question": "./media/audio/exercise/US_M547_question.mp3",
+                "AnswerA": "./media/audio/exercise/US_M547_answer1.mp3",
+                "AnswerB": "./media/audio/exercise/US_M547_answer2.mp3",
+                "AnswerC": "./media/audio/exercise/US_M547_answer3.mp3"
+            },
+            "IN": {
+                "Question": "./media/audio/exercise/IN_M547_question.mp3",
+                "AnswerA": "./media/audio/exercise/IN_M547_answer1.mp3",
+                "AnswerB": "./media/audio/exercise/IN_M547_answer2.mp3",
+                "AnswerC": "./media/audio/exercise/IN_M547_answer3.mp3"
+            }
+        }
+    },
+    {
+        "ID": "M548",
+        "Question": "Where are we planning to hold the party for new employees?",
+        "AnswerA": "Harvey selected three hotels.",
+        "AnswerB": "Sometime next month.",
+        "AnswerC": "It was newly planted yesterday.",
+        "CorrectAnswer": "A",
+        "Voices": {
+            "US": {
+                "Question": "./media/audio/exercise/US_M548_question.mp3",
+                "AnswerA": "./media/audio/exercise/US_M548_answer1.mp3",
+                "AnswerB": "./media/audio/exercise/US_M548_answer2.mp3",
+                "AnswerC": "./media/audio/exercise/US_M548_answer3.mp3"
+            },
+            "IN": {
+                "Question": "./media/audio/exercise/IN_M548_question.mp3",
+                "AnswerA": "./media/audio/exercise/IN_M548_answer1.mp3",
+                "AnswerB": "./media/audio/exercise/IN_M548_answer2.mp3",
+                "AnswerC": "./media/audio/exercise/IN_M548_answer3.mp3"
+            }
+        }
+    },
+    {
+        "ID": "M549",
+        "Question": "Are all of the seats occupied?",
+        "AnswerA": "I like seafood.",
+        "AnswerB": "Yes, we are.",
+        "AnswerC": "Now you can get one.",
+        "CorrectAnswer": "C",
+        "Voices": {
+            "US": {
+                "Question": "./media/audio/exercise/US_M549_question.mp3",
+                "AnswerA": "./media/audio/exercise/US_M549_answer1.mp3",
+                "AnswerB": "./media/audio/exercise/US_M549_answer2.mp3",
+                "AnswerC": "./media/audio/exercise/US_M549_answer3.mp3"
+            },
+            "IN": {
+                "Question": "./media/audio/exercise/IN_M549_question.mp3",
+                "AnswerA": "./media/audio/exercise/IN_M549_answer1.mp3",
+                "AnswerB": "./media/audio/exercise/IN_M549_answer2.mp3",
+                "AnswerC": "./media/audio/exercise/IN_M549_answer3.mp3"
+            }
+        }
+    },
+    {
+        "ID": "M550",
+        "Question": "Didn't you used to work on the construction project?",
+        "AnswerA": "It's better than projected.",
+        "AnswerB": "I read it for work.",
+        "AnswerC": "That was Mr. Bell.",
+        "CorrectAnswer": "C",
+        "Voices": {
+            "US": {
+                "Question": "./media/audio/exercise/US_M550_question.mp3",
+                "AnswerA": "./media/audio/exercise/US_M550_answer1.mp3",
+                "AnswerB": "./media/audio/exercise/US_M550_answer2.mp3",
+                "AnswerC": "./media/audio/exercise/US_M550_answer3.mp3"
+            },
+            "IN": {
+                "Question": "./media/audio/exercise/IN_M550_question.mp3",
+                "AnswerA": "./media/audio/exercise/IN_M550_answer1.mp3",
+                "AnswerB": "./media/audio/exercise/IN_M550_answer2.mp3",
+                "AnswerC": "./media/audio/exercise/IN_M550_answer3.mp3"
+            }
+        }
+    },
+    {
+        "ID": "M551",
+        "Question": "Why has the bakery been closed?",
+        "AnswerA": "Some coffee and pastries.",
+        "AnswerB": "It's currently under renovation.",
+        "AnswerC": "I'd like soup instead.",
+        "CorrectAnswer": "B",
+        "Voices": {
+            "US": {
+                "Question": "./media/audio/exercise/US_M551_question.mp3",
+                "AnswerA": "./media/audio/exercise/US_M551_answer1.mp3",
+                "AnswerB": "./media/audio/exercise/US_M551_answer2.mp3",
+                "AnswerC": "./media/audio/exercise/US_M551_answer3.mp3"
+            },
+            "IN": {
+                "Question": "./media/audio/exercise/IN_M551_question.mp3",
+                "AnswerA": "./media/audio/exercise/IN_M551_answer1.mp3",
+                "AnswerB": "./media/audio/exercise/IN_M551_answer2.mp3",
+                "AnswerC": "./media/audio/exercise/IN_M551_answer3.mp3"
+            }
+        }
+    },
+    {
+        "ID": "M552",
+        "Question": "Which Rd. should I take to get to the Roger Stadium?",
+        "AnswerA": "Go straight down that hallway.",
+        "AnswerB": "All of the players have just arrived.",
+        "AnswerC": "You'd better take the metro.",
+        "CorrectAnswer": "C",
+        "Voices": {
+            "US": {
+                "Question": "./media/audio/exercise/US_M552_question.mp3",
+                "AnswerA": "./media/audio/exercise/US_M552_answer1.mp3",
+                "AnswerB": "./media/audio/exercise/US_M552_answer2.mp3",
+                "AnswerC": "./media/audio/exercise/US_M552_answer3.mp3"
+            },
+            "IN": {
+                "Question": "./media/audio/exercise/IN_M552_question.mp3",
+                "AnswerA": "./media/audio/exercise/IN_M552_answer1.mp3",
+                "AnswerB": "./media/audio/exercise/IN_M552_answer2.mp3",
+                "AnswerC": "./media/audio/exercise/IN_M552_answer3.mp3"
+            }
+        }
+    },
+    {
+        "ID": "M553",
+        "Question": "OK, let's walk to the client's office from here.",
+        "AnswerA": "Where should I get some drinks?",
+        "AnswerB": "But taxis are very cheap around here.",
+        "AnswerC": "I'm looking forward to seeing you soon.",
+        "CorrectAnswer": "B",
+        "Voices": {
+            "US": {
+                "Question": "./media/audio/exercise/US_M553_question.mp3",
+                "AnswerA": "./media/audio/exercise/US_M553_answer1.mp3",
+                "AnswerB": "./media/audio/exercise/US_M553_answer2.mp3",
+                "AnswerC": "./media/audio/exercise/US_M553_answer3.mp3"
+            },
+            "IN": {
+                "Question": "./media/audio/exercise/IN_M553_question.mp3",
+                "AnswerA": "./media/audio/exercise/IN_M553_answer1.mp3",
+                "AnswerB": "./media/audio/exercise/IN_M553_answer2.mp3",
+                "AnswerC": "./media/audio/exercise/IN_M553_answer3.mp3"
+            }
+        }
+    },
+    {
+        "ID": "M554",
+        "Question": "When should I file all of the documents?",
+        "AnswerA": "After some rules have been revised?",
+        "AnswerB": "Always in the top drawer?",
+        "AnswerC": "We need more tiles from the supplier.",
+        "CorrectAnswer": "A",
+        "Voices": {
+            "US": {
+                "Question": "./media/audio/exercise/US_M554_question.mp3",
+                "AnswerA": "./media/audio/exercise/US_M554_answer1.mp3",
+                "AnswerB": "./media/audio/exercise/US_M554_answer2.mp3",
+                "AnswerC": "./media/audio/exercise/US_M554_answer3.mp3"
+            },
+            "IN": {
+                "Question": "./media/audio/exercise/IN_M554_question.mp3",
+                "AnswerA": "./media/audio/exercise/IN_M554_answer1.mp3",
+                "AnswerB": "./media/audio/exercise/IN_M554_answer2.mp3",
+                "AnswerC": "./media/audio/exercise/IN_M554_answer3.mp3"
+            }
+        }
+    },
+    {
+        "ID": "M555",
+        "Question": "Who will be the new director at the main office?",
+        "AnswerA": "Oh has, Mr. Jacobs laughed.",
+        "AnswerB": "A Very interesting film.",
+        "AnswerC": "I'll check them carefully.",
+        "CorrectAnswer": "A",
+        "Voices": {
+            "US": {
+                "Question": "./media/audio/exercise/US_M555_question.mp3",
+                "AnswerA": "./media/audio/exercise/US_M555_answer1.mp3",
+                "AnswerB": "./media/audio/exercise/US_M555_answer2.mp3",
+                "AnswerC": "./media/audio/exercise/US_M555_answer3.mp3"
+            },
+            "IN": {
+                "Question": "./media/audio/exercise/IN_M555_question.mp3",
+                "AnswerA": "./media/audio/exercise/IN_M555_answer1.mp3",
+                "AnswerB": "./media/audio/exercise/IN_M555_answer2.mp3",
+                "AnswerC": "./media/audio/exercise/IN_M555_answer3.mp3"
+            }
+        }
+    },
+    {
+        "ID": "M556",
+        "Question": "I e-mailed you the latest catalog.",
+        "AnswerA": "It looks like there's no attachment.",
+        "AnswerB": "I'll show you how to log in.",
+        "AnswerC": "Did Mr. Grey test the sample?",
+        "CorrectAnswer": "A",
+        "Voices": {
+            "US": {
+                "Question": "./media/audio/exercise/US_M556_question.mp3",
+                "AnswerA": "./media/audio/exercise/US_M556_answer1.mp3",
+                "AnswerB": "./media/audio/exercise/US_M556_answer2.mp3",
+                "AnswerC": "./media/audio/exercise/US_M556_answer3.mp3"
+            },
+            "IN": {
+                "Question": "./media/audio/exercise/IN_M556_question.mp3",
+                "AnswerA": "./media/audio/exercise/IN_M556_answer1.mp3",
+                "AnswerB": "./media/audio/exercise/IN_M556_answer2.mp3",
+                "AnswerC": "./media/audio/exercise/IN_M556_answer3.mp3"
+            }
+        }
+    },
+    {
+        "ID": "M557",
+        "Question": "Is Miss Romano on vacation right now or already back in the office?",
+        "AnswerA": "Where is her schedule?",
+        "AnswerB": "Please return it to me.",
+        "AnswerC": "You need a permit.",
+        "CorrectAnswer": "A",
+        "Voices": {
+            "US": {
+                "Question": "./media/audio/exercise/US_M557_question.mp3",
+                "AnswerA": "./media/audio/exercise/US_M557_answer1.mp3",
+                "AnswerB": "./media/audio/exercise/US_M557_answer2.mp3",
+                "AnswerC": "./media/audio/exercise/US_M557_answer3.mp3"
+            },
+            "IN": {
+                "Question": "./media/audio/exercise/IN_M557_question.mp3",
+                "AnswerA": "./media/audio/exercise/IN_M557_answer1.mp3",
+                "AnswerB": "./media/audio/exercise/IN_M557_answer2.mp3",
+                "AnswerC": "./media/audio/exercise/IN_M557_answer3.mp3"
+            }
+        }
+    },
+    {
+        "ID": "M558",
+        "Question": "Would you fill out this booking form please?",
+        "AnswerA": "I did it online.",
+        "AnswerB": "That book is out of stock.",
+        "AnswerC": "Please format the document.",
+        "CorrectAnswer": "A",
+        "Voices": {
+            "US": {
+                "Question": "./media/audio/exercise/US_M558_question.mp3",
+                "AnswerA": "./media/audio/exercise/US_M558_answer1.mp3",
+                "AnswerB": "./media/audio/exercise/US_M558_answer2.mp3",
+                "AnswerC": "./media/audio/exercise/US_M558_answer3.mp3"
+            },
+            "IN": {
+                "Question": "./media/audio/exercise/IN_M558_question.mp3",
+                "AnswerA": "./media/audio/exercise/IN_M558_answer1.mp3",
+                "AnswerB": "./media/audio/exercise/IN_M558_answer2.mp3",
+                "AnswerC": "./media/audio/exercise/IN_M558_answer3.mp3"
+            }
+        }
+    },
+    {
+        "ID": "M559",
+        "Question": "Where should I put my laptop bag?",
+        "AnswerA": "It's not that bad.",
+        "AnswerB": "Accessories must be kept safe.",
+        "AnswerC": "Did you talk to a security guard?",
+        "CorrectAnswer": "C",
+        "Voices": {
+            "US": {
+                "Question": "./media/audio/exercise/US_M559_question.mp3",
+                "AnswerA": "./media/audio/exercise/US_M559_answer1.mp3",
+                "AnswerB": "./media/audio/exercise/US_M559_answer2.mp3",
+                "AnswerC": "./media/audio/exercise/US_M559_answer3.mp3"
+            },
+            "IN": {
+                "Question": "./media/audio/exercise/IN_M559_question.mp3",
+                "AnswerA": "./media/audio/exercise/IN_M559_answer1.mp3",
+                "AnswerB": "./media/audio/exercise/IN_M559_answer2.mp3",
+                "AnswerC": "./media/audio/exercise/IN_M559_answer3.mp3"
+            }
+        }
+    },
+    {
+        "ID": "M560",
+        "Question": "Why has the wrapping been removed?",
+        "AnswerA": "I needed to use it immediately.",
+        "AnswerB": "Please take all of them.",
+        "AnswerC": "Extra bubble wrap packaging.",
+        "CorrectAnswer": "A",
+        "Voices": {
+            "US": {
+                "Question": "./media/audio/exercise/US_M560_question.mp3",
+                "AnswerA": "./media/audio/exercise/US_M560_answer1.mp3",
+                "AnswerB": "./media/audio/exercise/US_M560_answer2.mp3",
+                "AnswerC": "./media/audio/exercise/US_M560_answer3.mp3"
+            },
+            "IN": {
+                "Question": "./media/audio/exercise/IN_M560_question.mp3",
+                "AnswerA": "./media/audio/exercise/IN_M560_answer1.mp3",
+                "AnswerB": "./media/audio/exercise/IN_M560_answer2.mp3",
+                "AnswerC": "./media/audio/exercise/IN_M560_answer3.mp3"
+            }
+        }
+    },
+    {
+        "ID": "M561",
+        "Question": "We have some parking spaces for visitors.",
+        "AnswerA": "No, I haven't my own.",
+        "AnswerB": "Will be visiting by car next time.",
+        "AnswerC": "Please do this at your own pace.",
+        "CorrectAnswer": "B",
+        "Voices": {
+            "US": {
+                "Question": "./media/audio/exercise/US_M561_question.mp3",
+                "AnswerA": "./media/audio/exercise/US_M561_answer1.mp3",
+                "AnswerB": "./media/audio/exercise/US_M561_answer2.mp3",
+                "AnswerC": "./media/audio/exercise/US_M561_answer3.mp3"
+            },
+            "IN": {
+                "Question": "./media/audio/exercise/IN_M561_question.mp3",
+                "AnswerA": "./media/audio/exercise/IN_M561_answer1.mp3",
+                "AnswerB": "./media/audio/exercise/IN_M561_answer2.mp3",
+                "AnswerC": "./media/audio/exercise/IN_M561_answer3.mp3"
+            }
+        }
+    },
+    {
+        "ID": "M562",
+        "Question": "Next year's budget is under review.",
+        "AnswerA": "Oh, are they still discussing it?",
+        "AnswerB": "At the end of this year.",
+        "AnswerC": "Check the reimbursement policy.",
+        "CorrectAnswer": "A",
+        "Voices": {
+            "US": {
+                "Question": "./media/audio/exercise/US_M562_question.mp3",
+                "AnswerA": "./media/audio/exercise/US_M562_answer1.mp3",
+                "AnswerB": "./media/audio/exercise/US_M562_answer2.mp3",
+                "AnswerC": "./media/audio/exercise/US_M562_answer3.mp3"
+            },
+            "IN": {
+                "Question": "./media/audio/exercise/IN_M562_question.mp3",
+                "AnswerA": "./media/audio/exercise/IN_M562_answer1.mp3",
+                "AnswerB": "./media/audio/exercise/IN_M562_answer2.mp3",
+                "AnswerC": "./media/audio/exercise/IN_M562_answer3.mp3"
+            }
+        }
+    },
+    {
+        "ID": "M563",
+        "Question": "Raphael's going to San Diego next Monday, isn't he?",
+        "AnswerA": "On some occasions.",
+        "AnswerB": "We had to check his expense report.",
+        "AnswerC": "He's still waiting for the approval.",
+        "CorrectAnswer": "C",
+        "Voices": {
+            "US": {
+                "Question": "./media/audio/exercise/US_M563_question.mp3",
+                "AnswerA": "./media/audio/exercise/US_M563_answer1.mp3",
+                "AnswerB": "./media/audio/exercise/US_M563_answer2.mp3",
+                "AnswerC": "./media/audio/exercise/US_M563_answer3.mp3"
+            },
+            "IN": {
+                "Question": "./media/audio/exercise/IN_M563_question.mp3",
+                "AnswerA": "./media/audio/exercise/IN_M563_answer1.mp3",
+                "AnswerB": "./media/audio/exercise/IN_M563_answer2.mp3",
+                "AnswerC": "./media/audio/exercise/IN_M563_answer3.mp3"
+            }
+        }
+    },
+    {
+        "ID": "M564",
+        "Question": "Shall I call the restaurant to see if there's a concert tonight?",
+        "AnswerA": "Do I need to wait in line?",
+        "AnswerB": "I already have.",
+        "AnswerC": "The service is not the best.",
+        "CorrectAnswer": "B",
+        "Voices": {
+            "US": {
+                "Question": "./media/audio/exercise/US_M564_question.mp3",
+                "AnswerA": "./media/audio/exercise/US_M564_answer1.mp3",
+                "AnswerB": "./media/audio/exercise/US_M564_answer2.mp3",
+                "AnswerC": "./media/audio/exercise/US_M564_answer3.mp3"
+            },
+            "IN": {
+                "Question": "./media/audio/exercise/IN_M564_question.mp3",
+                "AnswerA": "./media/audio/exercise/IN_M564_answer1.mp3",
+                "AnswerB": "./media/audio/exercise/IN_M564_answer2.mp3",
+                "AnswerC": "./media/audio/exercise/IN_M564_answer3.mp3"
+            }
+        }
+    },
+    {
+        "ID": "M565",
+        "Question": "Who will be teaching the math class instead of Miss Shelton?",
+        "AnswerA": "I took the class five years ago.",
+        "AnswerB": "Didn't she ask you to?",
+        "AnswerC": "I think the venue will be changed.",
+        "CorrectAnswer": "B",
+        "Voices": {
+            "US": {
+                "Question": "./media/audio/exercise/US_M565_question.mp3",
+                "AnswerA": "./media/audio/exercise/US_M565_answer1.mp3",
+                "AnswerB": "./media/audio/exercise/US_M565_answer2.mp3",
+                "AnswerC": "./media/audio/exercise/US_M565_answer3.mp3"
+            },
+            "IN": {
+                "Question": "./media/audio/exercise/IN_M565_question.mp3",
+                "AnswerA": "./media/audio/exercise/IN_M565_answer1.mp3",
+                "AnswerB": "./media/audio/exercise/IN_M565_answer2.mp3",
+                "AnswerC": "./media/audio/exercise/IN_M565_answer3.mp3"
+            }
+        }
+    },
+    {
+        "ID": "M566",
+        "Question": "Where are you staying in Boston?",
+        "AnswerA": "Please stay in touch.",
+        "AnswerB": "With one of my relatives.",
+        "AnswerC": "The hotel was wonderful.",
+        "CorrectAnswer": "B",
+        "Voices": {
+            "US": {
+                "Question": "./media/audio/exercise/US_M566_question.mp3",
+                "AnswerA": "./media/audio/exercise/US_M566_answer1.mp3",
+                "AnswerB": "./media/audio/exercise/US_M566_answer2.mp3",
+                "AnswerC": "./media/audio/exercise/US_M566_answer3.mp3"
+            },
+            "IN": {
+                "Question": "./media/audio/exercise/IN_M566_question.mp3",
+                "AnswerA": "./media/audio/exercise/IN_M566_answer1.mp3",
+                "AnswerB": "./media/audio/exercise/IN_M566_answer2.mp3",
+                "AnswerC": "./media/audio/exercise/IN_M566_answer3.mp3"
+            }
+        }
+    },
+    {
+        "ID": "M567",
+        "Question": "Where should these cardboard boxes be placed?",
+        "AnswerA": "It's round shaped.",
+        "AnswerB": "Please have a seat.",
+        "AnswerC": "Let's wait for Tanya to come.",
+        "CorrectAnswer": "C",
+        "Voices": {
+            "US": {
+                "Question": "./media/audio/exercise/US_M567_question.mp3",
+                "AnswerA": "./media/audio/exercise/US_M567_answer1.mp3",
+                "AnswerB": "./media/audio/exercise/US_M567_answer2.mp3",
+                "AnswerC": "./media/audio/exercise/US_M567_answer3.mp3"
+            },
+            "IN": {
+                "Question": "./media/audio/exercise/IN_M567_question.mp3",
+                "AnswerA": "./media/audio/exercise/IN_M567_answer1.mp3",
+                "AnswerB": "./media/audio/exercise/IN_M567_answer2.mp3",
+                "AnswerC": "./media/audio/exercise/IN_M567_answer3.mp3"
+            }
+        }
+    },
+    {
+        "ID": "M568",
+        "Question": "Who was assigned to the marketing position?",
+        "AnswerA": "As far as I know, no one.",
+        "AnswerB": "Mr. Morgan moved into a new house.",
+        "AnswerC": "Your name and signature please.",
+        "CorrectAnswer": "A",
+        "Voices": {
+            "US": {
+                "Question": "./media/audio/exercise/US_M568_question.mp3",
+                "AnswerA": "./media/audio/exercise/US_M568_answer1.mp3",
+                "AnswerB": "./media/audio/exercise/US_M568_answer2.mp3",
+                "AnswerC": "./media/audio/exercise/US_M568_answer3.mp3"
+            },
+            "IN": {
+                "Question": "./media/audio/exercise/IN_M568_question.mp3",
+                "AnswerA": "./media/audio/exercise/IN_M568_answer1.mp3",
+                "AnswerB": "./media/audio/exercise/IN_M568_answer2.mp3",
+                "AnswerC": "./media/audio/exercise/IN_M568_answer3.mp3"
+            }
+        }
+    },
+    {
+        "ID": "M569",
+        "Question": "What should I talk about concerning the enterprise, Matthew?",
+        "AnswerA": "Any information will be welcomed.",
+        "AnswerB": "An e-mail should be sent to all.",
+        "AnswerC": "I look forward to seeing you soon.",
+        "CorrectAnswer": "A",
+        "Voices": {
+            "US": {
+                "Question": "./media/audio/exercise/US_M569_question.mp3",
+                "AnswerA": "./media/audio/exercise/US_M569_answer1.mp3",
+                "AnswerB": "./media/audio/exercise/US_M569_answer2.mp3",
+                "AnswerC": "./media/audio/exercise/US_M569_answer3.mp3"
+            },
+            "IN": {
+                "Question": "./media/audio/exercise/IN_M569_question.mp3",
+                "AnswerA": "./media/audio/exercise/IN_M569_answer1.mp3",
+                "AnswerB": "./media/audio/exercise/IN_M569_answer2.mp3",
+                "AnswerC": "./media/audio/exercise/IN_M569_answer3.mp3"
+            }
+        }
+    },
+    {
+        "ID": "M570",
+        "Question": "Do you have time to look over this month's expense report?",
+        "AnswerA": "Please review more reports.",
+        "AnswerB": "I'm free after lunch.",
+        "AnswerC": "Miss Lawson will be out of the office.",
+        "CorrectAnswer": "B",
+        "Voices": {
+            "US": {
+                "Question": "./media/audio/exercise/US_M570_question.mp3",
+                "AnswerA": "./media/audio/exercise/US_M570_answer1.mp3",
+                "AnswerB": "./media/audio/exercise/US_M570_answer2.mp3",
+                "AnswerC": "./media/audio/exercise/US_M570_answer3.mp3"
+            },
+            "IN": {
+                "Question": "./media/audio/exercise/IN_M570_question.mp3",
+                "AnswerA": "./media/audio/exercise/IN_M570_answer1.mp3",
+                "AnswerB": "./media/audio/exercise/IN_M570_answer2.mp3",
+                "AnswerC": "./media/audio/exercise/IN_M570_answer3.mp3"
+            }
+        }
+    },
+    {
+        "ID": "M571",
+        "Question": "Would you mind giving me your opinion on the quotation?",
+        "AnswerA": "Information technology department.",
+        "AnswerB": "We changed them based on the feedback.",
+        "AnswerC": "Leave it on the table.",
+        "CorrectAnswer": "C",
+        "Voices": {
+            "US": {
+                "Question": "./media/audio/exercise/US_M571_question.mp3",
+                "AnswerA": "./media/audio/exercise/US_M571_answer1.mp3",
+                "AnswerB": "./media/audio/exercise/US_M571_answer2.mp3",
+                "AnswerC": "./media/audio/exercise/US_M571_answer3.mp3"
+            },
+            "IN": {
+                "Question": "./media/audio/exercise/IN_M571_question.mp3",
+                "AnswerA": "./media/audio/exercise/IN_M571_answer1.mp3",
+                "AnswerB": "./media/audio/exercise/IN_M571_answer2.mp3",
+                "AnswerC": "./media/audio/exercise/IN_M571_answer3.mp3"
+            }
+        }
+    },
+    {
+        "ID": "M572",
+        "Question": "Weren't all of the documents shipped to the contractor's office?",
+        "AnswerA": "She's sipping some coffee.",
+        "AnswerB": "We can do it without them.",
+        "AnswerC": "We actually sent them by e-mail.",
+        "CorrectAnswer": "C",
+        "Voices": {
+            "US": {
+                "Question": "./media/audio/exercise/US_M572_question.mp3",
+                "AnswerA": "./media/audio/exercise/US_M572_answer1.mp3",
+                "AnswerB": "./media/audio/exercise/US_M572_answer2.mp3",
+                "AnswerC": "./media/audio/exercise/US_M572_answer3.mp3"
+            },
+            "IN": {
+                "Question": "./media/audio/exercise/IN_M572_question.mp3",
+                "AnswerA": "./media/audio/exercise/IN_M572_answer1.mp3",
+                "AnswerB": "./media/audio/exercise/IN_M572_answer2.mp3",
+                "AnswerC": "./media/audio/exercise/IN_M572_answer3.mp3"
+            }
+        }
+    },
+    {
+        "ID": "M573",
+        "Question": "When will the corporate fundraiser take place?",
+        "AnswerA": "It's about to be determined.",
+        "AnswerB": "I took the boat already.",
+        "AnswerC": "At the Fairmont Hotel.",
+        "CorrectAnswer": "A",
+        "Voices": {
+            "US": {
+                "Question": "./media/audio/exercise/US_M573_question.mp3",
+                "AnswerA": "./media/audio/exercise/US_M573_answer1.mp3",
+                "AnswerB": "./media/audio/exercise/US_M573_answer2.mp3",
+                "AnswerC": "./media/audio/exercise/US_M573_answer3.mp3"
+            },
+            "IN": {
+                "Question": "./media/audio/exercise/IN_M573_question.mp3",
+                "AnswerA": "./media/audio/exercise/IN_M573_answer1.mp3",
+                "AnswerB": "./media/audio/exercise/IN_M573_answer2.mp3",
+                "AnswerC": "./media/audio/exercise/IN_M573_answer3.mp3"
+            }
+        }
+    },
+    {
+        "ID": "M574",
+        "Question": "Have you heard the new printer procedure?",
+        "AnswerA": "When was it put in place?",
+        "AnswerB": "Familiarize ourselves with the old one.",
+        "AnswerC": "On the 2nd floor meeting room A.",
+        "CorrectAnswer": "A",
+        "Voices": {
+            "US": {
+                "Question": "./media/audio/exercise/US_M574_question.mp3",
+                "AnswerA": "./media/audio/exercise/US_M574_answer1.mp3",
+                "AnswerB": "./media/audio/exercise/US_M574_answer2.mp3",
+                "AnswerC": "./media/audio/exercise/US_M574_answer3.mp3"
+            },
+            "IN": {
+                "Question": "./media/audio/exercise/IN_M574_question.mp3",
+                "AnswerA": "./media/audio/exercise/IN_M574_answer1.mp3",
+                "AnswerB": "./media/audio/exercise/IN_M574_answer2.mp3",
+                "AnswerC": "./media/audio/exercise/IN_M574_answer3.mp3"
+            }
+        }
+    },
+    {
+        "ID": "M575",
+        "Question": "How long have you worked at this pharmacy?",
+        "AnswerA": "I don't think it takes long.",
+        "AnswerB": "For quite a while.",
+        "AnswerC": "Twenty-minute drive.",
+        "CorrectAnswer": "B",
+        "Voices": {
+            "US": {
+                "Question": "./media/audio/exercise/US_M575_question.mp3",
+                "AnswerA": "./media/audio/exercise/US_M575_answer1.mp3",
+                "AnswerB": "./media/audio/exercise/US_M575_answer2.mp3",
+                "AnswerC": "./media/audio/exercise/US_M575_answer3.mp3"
+            },
+            "IN": {
+                "Question": "./media/audio/exercise/IN_M575_question.mp3",
+                "AnswerA": "./media/audio/exercise/IN_M575_answer1.mp3",
+                "AnswerB": "./media/audio/exercise/IN_M575_answer2.mp3",
+                "AnswerC": "./media/audio/exercise/IN_M575_answer3.mp3"
+            }
+        }
+    },
+    {
+        "ID": "M576",
+        "Question": "Dennis, you've been an event coordinator before, haven't you?",
+        "AnswerA": "Haven't you done it yet?",
+        "AnswerB": "I used to be.",
+        "AnswerC": "He has a lot of experience.",
+        "CorrectAnswer": "B",
+        "Voices": {
+            "US": {
+                "Question": "./media/audio/exercise/US_M576_question.mp3",
+                "AnswerA": "./media/audio/exercise/US_M576_answer1.mp3",
+                "AnswerB": "./media/audio/exercise/US_M576_answer2.mp3",
+                "AnswerC": "./media/audio/exercise/US_M576_answer3.mp3"
+            },
+            "IN": {
+                "Question": "./media/audio/exercise/IN_M576_question.mp3",
+                "AnswerA": "./media/audio/exercise/IN_M576_answer1.mp3",
+                "AnswerB": "./media/audio/exercise/IN_M576_answer2.mp3",
+                "AnswerC": "./media/audio/exercise/IN_M576_answer3.mp3"
+            }
+        }
+    },
+    {
+        "ID": "M577",
+        "Question": "Do you know when we should submit the article to the editor in chief?",
+        "AnswerA": "I'm not working on that.",
+        "AnswerB": "Please say hello to the artist.",
+        "AnswerC": "All the submissions are acceptable.",
+        "CorrectAnswer": "A",
+        "Voices": {
+            "US": {
+                "Question": "./media/audio/exercise/US_M577_question.mp3",
+                "AnswerA": "./media/audio/exercise/US_M577_answer1.mp3",
+                "AnswerB": "./media/audio/exercise/US_M577_answer2.mp3",
+                "AnswerC": "./media/audio/exercise/US_M577_answer3.mp3"
+            },
+            "IN": {
+                "Question": "./media/audio/exercise/IN_M577_question.mp3",
+                "AnswerA": "./media/audio/exercise/IN_M577_answer1.mp3",
+                "AnswerB": "./media/audio/exercise/IN_M577_answer2.mp3",
+                "AnswerC": "./media/audio/exercise/IN_M577_answer3.mp3"
+            }
+        }
+    },
+    {
+        "ID": "M578",
+        "Question": "How much was your white shirt?",
+        "AnswerA": "We only have some in blue.",
+        "AnswerB": "It was a gift from my parents.",
+        "AnswerC": "Did you check your address?",
+        "CorrectAnswer": "B",
+        "Voices": {
+            "US": {
+                "Question": "./media/audio/exercise/US_M578_question.mp3",
+                "AnswerA": "./media/audio/exercise/US_M578_answer1.mp3",
+                "AnswerB": "./media/audio/exercise/US_M578_answer2.mp3",
+                "AnswerC": "./media/audio/exercise/US_M578_answer3.mp3"
+            },
+            "IN": {
+                "Question": "./media/audio/exercise/IN_M578_question.mp3",
+                "AnswerA": "./media/audio/exercise/IN_M578_answer1.mp3",
+                "AnswerB": "./media/audio/exercise/IN_M578_answer2.mp3",
+                "AnswerC": "./media/audio/exercise/IN_M578_answer3.mp3"
+            }
+        }
+    },
+    {
+        "ID": "M579",
+        "Question": "Why did Mr. McDaniel go to Osaka last Wednesday?",
+        "AnswerA": "I missed handing it to him.",
+        "AnswerB": "He was interviewed for Marketing Manager.",
+        "AnswerC": "Use this mobile phone during the trip.",
+        "CorrectAnswer": "B",
+        "Voices": {
+            "US": {
+                "Question": "./media/audio/exercise/US_M579_question.mp3",
+                "AnswerA": "./media/audio/exercise/US_M579_answer1.mp3",
+                "AnswerB": "./media/audio/exercise/US_M579_answer2.mp3",
+                "AnswerC": "./media/audio/exercise/US_M579_answer3.mp3"
+            },
+            "IN": {
+                "Question": "./media/audio/exercise/IN_M579_question.mp3",
+                "AnswerA": "./media/audio/exercise/IN_M579_answer1.mp3",
+                "AnswerB": "./media/audio/exercise/IN_M579_answer2.mp3",
+                "AnswerC": "./media/audio/exercise/IN_M579_answer3.mp3"
+            }
+        }
+    },
+    {
+        "ID": "M580",
+        "Question": "Could I use the scale for a while?",
+        "AnswerA": "Yes, I could.",
+        "AnswerB": "Absolute scale of temperature.",
+        "AnswerC": "Please return it later.",
+        "CorrectAnswer": "C",
+        "Voices": {
+            "US": {
+                "Question": "./media/audio/exercise/US_M580_question.mp3",
+                "AnswerA": "./media/audio/exercise/US_M580_answer1.mp3",
+                "AnswerB": "./media/audio/exercise/US_M580_answer2.mp3",
+                "AnswerC": "./media/audio/exercise/US_M580_answer3.mp3"
+            },
+            "IN": {
+                "Question": "./media/audio/exercise/IN_M580_question.mp3",
+                "AnswerA": "./media/audio/exercise/IN_M580_answer1.mp3",
+                "AnswerB": "./media/audio/exercise/IN_M580_answer2.mp3",
+                "AnswerC": "./media/audio/exercise/IN_M580_answer3.mp3"
+            }
+        }
+    },
+    {
+        "ID": "M581",
+        "Question": "When will Doctor Erickson begin the investigation?",
+        "AnswerA": "At the National Convention hall.",
+        "AnswerB": "Two years.",
+        "AnswerC": "He's still sick.",
+        "CorrectAnswer": "C",
+        "Voices": {
+            "US": {
+                "Question": "./media/audio/exercise/US_M581_question.mp3",
+                "AnswerA": "./media/audio/exercise/US_M581_answer1.mp3",
+                "AnswerB": "./media/audio/exercise/US_M581_answer2.mp3",
+                "AnswerC": "./media/audio/exercise/US_M581_answer3.mp3"
+            },
+            "IN": {
+                "Question": "./media/audio/exercise/IN_M581_question.mp3",
+                "AnswerA": "./media/audio/exercise/IN_M581_answer1.mp3",
+                "AnswerB": "./media/audio/exercise/IN_M581_answer2.mp3",
+                "AnswerC": "./media/audio/exercise/IN_M581_answer3.mp3"
+            }
+        }
+    },
+    {
+        "ID": "M582",
+        "Question": "What color should we paint the bathroom ?",
+        "AnswerA": "I like your picture?",
+        "AnswerB": "White needs to be avoided.",
+        "AnswerC": "OK, let's take a bus.",
+        "CorrectAnswer": "B",
+        "Voices": {
+            "US": {
+                "Question": "./media/audio/exercise/US_M582_question.mp3",
+                "AnswerA": "./media/audio/exercise/US_M582_answer1.mp3",
+                "AnswerB": "./media/audio/exercise/US_M582_answer2.mp3",
+                "AnswerC": "./media/audio/exercise/US_M582_answer3.mp3"
+            },
+            "IN": {
+                "Question": "./media/audio/exercise/IN_M582_question.mp3",
+                "AnswerA": "./media/audio/exercise/IN_M582_answer1.mp3",
+                "AnswerB": "./media/audio/exercise/IN_M582_answer2.mp3",
+                "AnswerC": "./media/audio/exercise/IN_M582_answer3.mp3"
+            }
+        }
+    },
+    {
+        "ID": "M583",
+        "Question": "When do I need to register for the Management workshop?",
+        "AnswerA": "Attendance is very low.",
+        "AnswerB": "It must be useful.",
+        "AnswerC": "I did it for you.",
+        "CorrectAnswer": "C",
+        "Voices": {
+            "US": {
+                "Question": "./media/audio/exercise/US_M583_question.mp3",
+                "AnswerA": "./media/audio/exercise/US_M583_answer1.mp3",
+                "AnswerB": "./media/audio/exercise/US_M583_answer2.mp3",
+                "AnswerC": "./media/audio/exercise/US_M583_answer3.mp3"
+            },
+            "IN": {
+                "Question": "./media/audio/exercise/IN_M583_question.mp3",
+                "AnswerA": "./media/audio/exercise/IN_M583_answer1.mp3",
+                "AnswerB": "./media/audio/exercise/IN_M583_answer2.mp3",
+                "AnswerC": "./media/audio/exercise/IN_M583_answer3.mp3"
+            }
+        }
+    },
+    {
+        "ID": "M584",
+        "Question": "How much does the special order cost?",
+        "AnswerA": "It depends on your deadline.",
+        "AnswerB": "As much as you can.",
+        "AnswerC": "Let me see if I have the number.",
+        "CorrectAnswer": "A",
+        "Voices": {
+            "US": {
+                "Question": "./media/audio/exercise/US_M584_question.mp3",
+                "AnswerA": "./media/audio/exercise/US_M584_answer1.mp3",
+                "AnswerB": "./media/audio/exercise/US_M584_answer2.mp3",
+                "AnswerC": "./media/audio/exercise/US_M584_answer3.mp3"
+            },
+            "IN": {
+                "Question": "./media/audio/exercise/IN_M584_question.mp3",
+                "AnswerA": "./media/audio/exercise/IN_M584_answer1.mp3",
+                "AnswerB": "./media/audio/exercise/IN_M584_answer2.mp3",
+                "AnswerC": "./media/audio/exercise/IN_M584_answer3.mp3"
+            }
+        }
+    },
+    {
+        "ID": "M585",
+        "Question": "Have you seen my scissors?",
+        "AnswerA": "Sure, I'll have some.",
+        "AnswerB": "There's some in the computer room.",
+        "AnswerC": "She's buying a new one.",
+        "CorrectAnswer": "B",
+        "Voices": {
+            "US": {
+                "Question": "./media/audio/exercise/US_M585_question.mp3",
+                "AnswerA": "./media/audio/exercise/US_M585_answer1.mp3",
+                "AnswerB": "./media/audio/exercise/US_M585_answer2.mp3",
+                "AnswerC": "./media/audio/exercise/US_M585_answer3.mp3"
+            },
+            "IN": {
+                "Question": "./media/audio/exercise/IN_M585_question.mp3",
+                "AnswerA": "./media/audio/exercise/IN_M585_answer1.mp3",
+                "AnswerB": "./media/audio/exercise/IN_M585_answer2.mp3",
+                "AnswerC": "./media/audio/exercise/IN_M585_answer3.mp3"
+            }
+        }
+    },
+    {
+        "ID": "M586",
+        "Question": "Some of us started a social activity last month.",
+        "AnswerA": "Any chance I could join it?",
+        "AnswerB": "Yes, he volunteered to do it.",
+        "AnswerC": "Admission is free.",
+        "CorrectAnswer": "A",
+        "Voices": {
+            "US": {
+                "Question": "./media/audio/exercise/US_M586_question.mp3",
+                "AnswerA": "./media/audio/exercise/US_M586_answer1.mp3",
+                "AnswerB": "./media/audio/exercise/US_M586_answer2.mp3",
+                "AnswerC": "./media/audio/exercise/US_M586_answer3.mp3"
+            },
+            "IN": {
+                "Question": "./media/audio/exercise/IN_M586_question.mp3",
+                "AnswerA": "./media/audio/exercise/IN_M586_answer1.mp3",
+                "AnswerB": "./media/audio/exercise/IN_M586_answer2.mp3",
+                "AnswerC": "./media/audio/exercise/IN_M586_answer3.mp3"
+            }
+        }
+    },
+    {
+        "ID": "M587",
+        "Question": "I can't believe you're here in the gallery.",
+        "AnswerA": "Some of the artists are friends of mine.",
+        "AnswerB": "Do you need this paintbrush?",
+        "AnswerC": "I'm responsible for the order.",
+        "CorrectAnswer": "A",
+        "Voices": {
+            "US": {
+                "Question": "./media/audio/exercise/US_M587_question.mp3",
+                "AnswerA": "./media/audio/exercise/US_M587_answer1.mp3",
+                "AnswerB": "./media/audio/exercise/US_M587_answer2.mp3",
+                "AnswerC": "./media/audio/exercise/US_M587_answer3.mp3"
+            },
+            "IN": {
+                "Question": "./media/audio/exercise/IN_M587_question.mp3",
+                "AnswerA": "./media/audio/exercise/IN_M587_answer1.mp3",
+                "AnswerB": "./media/audio/exercise/IN_M587_answer2.mp3",
+                "AnswerC": "./media/audio/exercise/IN_M587_answer3.mp3"
+            }
+        }
+    },
+    {
+        "ID": "M588",
+        "Question": "Who developed the company's marketing plan?",
+        "AnswerA": "Yes, I did.",
+        "AnswerB": "Jeffrey was in a meeting.",
+        "AnswerC": "A consulting firm.",
+        "CorrectAnswer": "C",
+        "Voices": {
+            "US": {
+                "Question": "./media/audio/exercise/US_M588_question.mp3",
+                "AnswerA": "./media/audio/exercise/US_M588_answer1.mp3",
+                "AnswerB": "./media/audio/exercise/US_M588_answer2.mp3",
+                "AnswerC": "./media/audio/exercise/US_M588_answer3.mp3"
+            },
+            "IN": {
+                "Question": "./media/audio/exercise/IN_M588_question.mp3",
+                "AnswerA": "./media/audio/exercise/IN_M588_answer1.mp3",
+                "AnswerB": "./media/audio/exercise/IN_M588_answer2.mp3",
+                "AnswerC": "./media/audio/exercise/IN_M588_answer3.mp3"
+            }
+        }
+    },
+    {
+        "ID": "M589",
+        "Question": "Where do you think is the best place for the new factory?",
+        "AnswerA": "A couple of locations should be considered.",
+        "AnswerB": "It houses almost 500 people.",
+        "AnswerC": "In fact, Ernest and I were awarded.",
+        "CorrectAnswer": "A",
+        "Voices": {
+            "US": {
+                "Question": "./media/audio/exercise/US_M589_question.mp3",
+                "AnswerA": "./media/audio/exercise/US_M589_answer1.mp3",
+                "AnswerB": "./media/audio/exercise/US_M589_answer2.mp3",
+                "AnswerC": "./media/audio/exercise/US_M589_answer3.mp3"
+            },
+            "IN": {
+                "Question": "./media/audio/exercise/IN_M589_question.mp3",
+                "AnswerA": "./media/audio/exercise/IN_M589_answer1.mp3",
+                "AnswerB": "./media/audio/exercise/IN_M589_answer2.mp3",
+                "AnswerC": "./media/audio/exercise/IN_M589_answer3.mp3"
+            }
+        }
+    },
+    {
+        "ID": "M590",
+        "Question": "Would you like to write up the press release or shall I?",
+        "AnswerA": "Light it up with decorations.",
+        "AnswerB": "I don't mind doing it.",
+        "AnswerC": "By Wednesday if possible.",
+        "CorrectAnswer": "B",
+        "Voices": {
+            "US": {
+                "Question": "./media/audio/exercise/US_M590_question.mp3",
+                "AnswerA": "./media/audio/exercise/US_M590_answer1.mp3",
+                "AnswerB": "./media/audio/exercise/US_M590_answer2.mp3",
+                "AnswerC": "./media/audio/exercise/US_M590_answer3.mp3"
+            },
+            "IN": {
+                "Question": "./media/audio/exercise/IN_M590_question.mp3",
+                "AnswerA": "./media/audio/exercise/IN_M590_answer1.mp3",
+                "AnswerB": "./media/audio/exercise/IN_M590_answer2.mp3",
+                "AnswerC": "./media/audio/exercise/IN_M590_answer3.mp3"
+            }
+        }
+    },
+    {
+        "ID": "M591",
+        "Question": "Your next meeting is here at 3:00 PM.",
+        "AnswerA": "Thanks for reminding me.",
+        "AnswerB": "Here you are.",
+        "AnswerC": "Late this morning.",
+        "CorrectAnswer": "A",
+        "Voices": {
+            "US": {
+                "Question": "./media/audio/exercise/US_M591_question.mp3",
+                "AnswerA": "./media/audio/exercise/US_M591_answer1.mp3",
+                "AnswerB": "./media/audio/exercise/US_M591_answer2.mp3",
+                "AnswerC": "./media/audio/exercise/US_M591_answer3.mp3"
+            },
+            "IN": {
+                "Question": "./media/audio/exercise/IN_M591_question.mp3",
+                "AnswerA": "./media/audio/exercise/IN_M591_answer1.mp3",
+                "AnswerB": "./media/audio/exercise/IN_M591_answer2.mp3",
+                "AnswerC": "./media/audio/exercise/IN_M591_answer3.mp3"
+            }
+        }
+    },
+    {
+        "ID": "M592",
+        "Question": "How did you find out about that shampoo?",
+        "AnswerA": "Did you have trouble finding our office?",
+        "AnswerB": "Yes, it's like Bamboo.",
+        "AnswerC": "Just a suggestion from my doctor.",
+        "CorrectAnswer": "C",
+        "Voices": {
+            "US": {
+                "Question": "./media/audio/exercise/US_M592_question.mp3",
+                "AnswerA": "./media/audio/exercise/US_M592_answer1.mp3",
+                "AnswerB": "./media/audio/exercise/US_M592_answer2.mp3",
+                "AnswerC": "./media/audio/exercise/US_M592_answer3.mp3"
+            },
+            "IN": {
+                "Question": "./media/audio/exercise/IN_M592_question.mp3",
+                "AnswerA": "./media/audio/exercise/IN_M592_answer1.mp3",
+                "AnswerB": "./media/audio/exercise/IN_M592_answer2.mp3",
+                "AnswerC": "./media/audio/exercise/IN_M592_answer3.mp3"
+            }
+        }
+    },
+    {
+        "ID": "M593",
+        "Question": "Which of these music players is Mr. Holton's?",
+        "AnswerA": "I didn't play tennis at that time.",
+        "AnswerB": "His name is put on the back.",
+        "AnswerC": "One of our accountants.",
+        "CorrectAnswer": "B",
+        "Voices": {
+            "US": {
+                "Question": "./media/audio/exercise/US_M593_question.mp3",
+                "AnswerA": "./media/audio/exercise/US_M593_answer1.mp3",
+                "AnswerB": "./media/audio/exercise/US_M593_answer2.mp3",
+                "AnswerC": "./media/audio/exercise/US_M593_answer3.mp3"
+            },
+            "IN": {
+                "Question": "./media/audio/exercise/IN_M593_question.mp3",
+                "AnswerA": "./media/audio/exercise/IN_M593_answer1.mp3",
+                "AnswerB": "./media/audio/exercise/IN_M593_answer2.mp3",
+                "AnswerC": "./media/audio/exercise/IN_M593_answer3.mp3"
+            }
+        }
+    },
+    {
+        "ID": "M594",
+        "Question": "Aren't you going to travel to Athens today?",
+        "AnswerA": "No, I need to redesign a layout.",
+        "AnswerB": "What will you do then?",
+        "AnswerC": "Yes, I used to support the team.",
+        "CorrectAnswer": "A",
+        "Voices": {
+            "US": {
+                "Question": "./media/audio/exercise/US_M594_question.mp3",
+                "AnswerA": "./media/audio/exercise/US_M594_answer1.mp3",
+                "AnswerB": "./media/audio/exercise/US_M594_answer2.mp3",
+                "AnswerC": "./media/audio/exercise/US_M594_answer3.mp3"
+            },
+            "IN": {
+                "Question": "./media/audio/exercise/IN_M594_question.mp3",
+                "AnswerA": "./media/audio/exercise/IN_M594_answer1.mp3",
+                "AnswerB": "./media/audio/exercise/IN_M594_answer2.mp3",
+                "AnswerC": "./media/audio/exercise/IN_M594_answer3.mp3"
+            }
+        }
+    },
+    {
+        "ID": "M595",
+        "Question": "Why don't we go out for lunch today?",
+        "AnswerA": "No, I don't mind waiting.",
+        "AnswerB": "Mind if I check my schedule?",
+        "AnswerC": "I had a big fish last night.",
+        "CorrectAnswer": "B",
+        "Voices": {
+            "US": {
+                "Question": "./media/audio/exercise/US_M595_question.mp3",
+                "AnswerA": "./media/audio/exercise/US_M595_answer1.mp3",
+                "AnswerB": "./media/audio/exercise/US_M595_answer2.mp3",
+                "AnswerC": "./media/audio/exercise/US_M595_answer3.mp3"
+            },
+            "IN": {
+                "Question": "./media/audio/exercise/IN_M595_question.mp3",
+                "AnswerA": "./media/audio/exercise/IN_M595_answer1.mp3",
+                "AnswerB": "./media/audio/exercise/IN_M595_answer2.mp3",
+                "AnswerC": "./media/audio/exercise/IN_M595_answer3.mp3"
+            }
+        }
+    },
+    {
+        "ID": "M596",
+        "Question": "Mr. Marshall, do you have time to discuss how we deliver our next presentation?",
+        "AnswerA": "We already talked it over, didn't we?",
+        "AnswerB": "It was probably a long meeting.",
+        "AnswerC": "It seems like a fast delivery service.",
+        "CorrectAnswer": "A",
+        "Voices": {
+            "US": {
+                "Question": "./media/audio/exercise/US_M596_question.mp3",
+                "AnswerA": "./media/audio/exercise/US_M596_answer1.mp3",
+                "AnswerB": "./media/audio/exercise/US_M596_answer2.mp3",
+                "AnswerC": "./media/audio/exercise/US_M596_answer3.mp3"
+            },
+            "IN": {
+                "Question": "./media/audio/exercise/IN_M596_question.mp3",
+                "AnswerA": "./media/audio/exercise/IN_M596_answer1.mp3",
+                "AnswerB": "./media/audio/exercise/IN_M596_answer2.mp3",
+                "AnswerC": "./media/audio/exercise/IN_M596_answer3.mp3"
+            }
+        }
+    },
+    {
+        "ID": "M597",
+        "Question": "Are you coming to the celebration?",
+        "AnswerA": "There are many celebrity attendees.",
+        "AnswerB": "It will be held on March 25th.",
+        "AnswerC": "I didn't hear about that.",
+        "CorrectAnswer": "C",
+        "Voices": {
+            "US": {
+                "Question": "./media/audio/exercise/US_M597_question.mp3",
+                "AnswerA": "./media/audio/exercise/US_M597_answer1.mp3",
+                "AnswerB": "./media/audio/exercise/US_M597_answer2.mp3",
+                "AnswerC": "./media/audio/exercise/US_M597_answer3.mp3"
+            },
+            "IN": {
+                "Question": "./media/audio/exercise/IN_M597_question.mp3",
+                "AnswerA": "./media/audio/exercise/IN_M597_answer1.mp3",
+                "AnswerB": "./media/audio/exercise/IN_M597_answer2.mp3",
+                "AnswerC": "./media/audio/exercise/IN_M597_answer3.mp3"
+            }
+        }
+    },
+    {
+        "ID": "M598",
+        "Question": "Today's discussion was great, wasn't it?",
+        "AnswerA": "Sure that'll be greatly done.",
+        "AnswerB": "After long deliberation.",
+        "AnswerC": "Now we're in good hands.",
+        "CorrectAnswer": "C",
+        "Voices": {
+            "US": {
+                "Question": "./media/audio/exercise/US_M598_question.mp3",
+                "AnswerA": "./media/audio/exercise/US_M598_answer1.mp3",
+                "AnswerB": "./media/audio/exercise/US_M598_answer2.mp3",
+                "AnswerC": "./media/audio/exercise/US_M598_answer3.mp3"
+            },
+            "IN": {
+                "Question": "./media/audio/exercise/IN_M598_question.mp3",
+                "AnswerA": "./media/audio/exercise/IN_M598_answer1.mp3",
+                "AnswerB": "./media/audio/exercise/IN_M598_answer2.mp3",
+                "AnswerC": "./media/audio/exercise/IN_M598_answer3.mp3"
+            }
+        }
+    },
+    {
+        "ID": "M599",
+        "Question": "Who's responsible for ordering these parts?",
+        "AnswerA": "We usually take turns.",
+        "AnswerB": "Actually it's rechargeable.",
+        "AnswerC": "They aren't in order.",
+        "CorrectAnswer": "A",
+        "Voices": {
+            "US": {
+                "Question": "./media/audio/exercise/US_M599_question.mp3",
+                "AnswerA": "./media/audio/exercise/US_M599_answer1.mp3",
+                "AnswerB": "./media/audio/exercise/US_M599_answer2.mp3",
+                "AnswerC": "./media/audio/exercise/US_M599_answer3.mp3"
+            },
+            "IN": {
+                "Question": "./media/audio/exercise/IN_M599_question.mp3",
+                "AnswerA": "./media/audio/exercise/IN_M599_answer1.mp3",
+                "AnswerB": "./media/audio/exercise/IN_M599_answer2.mp3",
+                "AnswerC": "./media/audio/exercise/IN_M599_answer3.mp3"
+            }
+        }
+    },
+    {
+        "ID": "M600",
+        "Question": "All of us need to reset our passwords, don't we?",
+        "AnswerA": "Only new members.",
+        "AnswerB": "They're not allowed to access the database.",
+        "AnswerC": "I'm excited to hear that.",
+        "CorrectAnswer": "A",
+        "Voices": {
+            "US": {
+                "Question": "./media/audio/exercise/US_M600_question.mp3",
+                "AnswerA": "./media/audio/exercise/US_M600_answer1.mp3",
+                "AnswerB": "./media/audio/exercise/US_M600_answer2.mp3",
+                "AnswerC": "./media/audio/exercise/US_M600_answer3.mp3"
+            },
+            "IN": {
+                "Question": "./media/audio/exercise/IN_M600_question.mp3",
+                "AnswerA": "./media/audio/exercise/IN_M600_answer1.mp3",
+                "AnswerB": "./media/audio/exercise/IN_M600_answer2.mp3",
+                "AnswerC": "./media/audio/exercise/IN_M600_answer3.mp3"
+            }
+        }
+    },
+    {
+        "ID": "M601",
+        "Question": "Do you want to share a taxi to the station?",
+        "AnswerA": "I'm in the mood to walk.",
+        "AnswerB": "Stay alert while driving here.",
+        "AnswerC": "No, I want to share a big meal.",
+        "CorrectAnswer": "A",
+        "Voices": {
+            "US": {
+                "Question": "./media/audio/exercise/US_M601_question.mp3",
+                "AnswerA": "./media/audio/exercise/US_M601_answer1.mp3",
+                "AnswerB": "./media/audio/exercise/US_M601_answer2.mp3",
+                "AnswerC": "./media/audio/exercise/US_M601_answer3.mp3"
+            },
+            "IN": {
+                "Question": "./media/audio/exercise/IN_M601_question.mp3",
+                "AnswerA": "./media/audio/exercise/IN_M601_answer1.mp3",
+                "AnswerB": "./media/audio/exercise/IN_M601_answer2.mp3",
+                "AnswerC": "./media/audio/exercise/IN_M601_answer3.mp3"
+            }
+        }
+    },
+    {
+        "ID": "M602",
+        "Question": "Which team won the contract to build the new bridge?",
+        "AnswerA": "Teamwork is the most important thing.",
+        "AnswerB": "We've never met the contractor.",
+        "AnswerC": "The planning committee is still deciding.",
+        "CorrectAnswer": "C",
+        "Voices": {
+            "US": {
+                "Question": "./media/audio/exercise/US_M602_question.mp3",
+                "AnswerA": "./media/audio/exercise/US_M602_answer1.mp3",
+                "AnswerB": "./media/audio/exercise/US_M602_answer2.mp3",
+                "AnswerC": "./media/audio/exercise/US_M602_answer3.mp3"
+            },
+            "IN": {
+                "Question": "./media/audio/exercise/IN_M602_question.mp3",
+                "AnswerA": "./media/audio/exercise/IN_M602_answer1.mp3",
+                "AnswerB": "./media/audio/exercise/IN_M602_answer2.mp3",
+                "AnswerC": "./media/audio/exercise/IN_M602_answer3.mp3"
+            }
+        }
+    },
+    {
+        "ID": "M603",
+        "Question": "When are you going to talk at that small business forum?",
+        "AnswerA": "There is the program on my desk.",
+        "AnswerB": "They are talking to each other.",
+        "AnswerC": "It takes place in Berlin.",
+        "CorrectAnswer": "A",
+        "Voices": {
+            "US": {
+                "Question": "./media/audio/exercise/US_M603_question.mp3",
+                "AnswerA": "./media/audio/exercise/US_M603_answer1.mp3",
+                "AnswerB": "./media/audio/exercise/US_M603_answer2.mp3",
+                "AnswerC": "./media/audio/exercise/US_M603_answer3.mp3"
+            },
+            "IN": {
+                "Question": "./media/audio/exercise/IN_M603_question.mp3",
+                "AnswerA": "./media/audio/exercise/IN_M603_answer1.mp3",
+                "AnswerB": "./media/audio/exercise/IN_M603_answer2.mp3",
+                "AnswerC": "./media/audio/exercise/IN_M603_answer3.mp3"
+            }
+        }
+    },
+    {
+        "ID": "M604",
+        "Question": "Your job is developing new software products, isn't it?",
+        "AnswerA": "My priority is a beauty.",
+        "AnswerB": "I'm new here.",
+        "AnswerC": "I changed careers last year.",
+        "CorrectAnswer": "C",
+        "Voices": {
+            "US": {
+                "Question": "./media/audio/exercise/US_M604_question.mp3",
+                "AnswerA": "./media/audio/exercise/US_M604_answer1.mp3",
+                "AnswerB": "./media/audio/exercise/US_M604_answer2.mp3",
+                "AnswerC": "./media/audio/exercise/US_M604_answer3.mp3"
+            },
+            "IN": {
+                "Question": "./media/audio/exercise/IN_M604_question.mp3",
+                "AnswerA": "./media/audio/exercise/IN_M604_answer1.mp3",
+                "AnswerB": "./media/audio/exercise/IN_M604_answer2.mp3",
+                "AnswerC": "./media/audio/exercise/IN_M604_answer3.mp3"
+            }
+        }
+    },
+    {
+        "ID": "M605",
+        "Question": "I have some announcements to make.",
+        "AnswerA": "So I don't need to make a reservation.",
+        "AnswerB": "Regarding personnel changes or something?",
+        "AnswerC": "Yes, we definitely are.",
+        "CorrectAnswer": "B",
+        "Voices": {
+            "US": {
+                "Question": "./media/audio/exercise/US_M605_question.mp3",
+                "AnswerA": "./media/audio/exercise/US_M605_answer1.mp3",
+                "AnswerB": "./media/audio/exercise/US_M605_answer2.mp3",
+                "AnswerC": "./media/audio/exercise/US_M605_answer3.mp3"
+            },
+            "IN": {
+                "Question": "./media/audio/exercise/IN_M605_question.mp3",
+                "AnswerA": "./media/audio/exercise/IN_M605_answer1.mp3",
+                "AnswerB": "./media/audio/exercise/IN_M605_answer2.mp3",
+                "AnswerC": "./media/audio/exercise/IN_M605_answer3.mp3"
+            }
+        }
+    },
+    {
+        "ID": "M606",
+        "Question": "Do you have another information packet for the training seminar?",
+        "AnswerA": "Julia has extras.",
+        "AnswerB": "I'd like to make it bigger.",
+        "AnswerC": "In the packaging department.",
+        "CorrectAnswer": "A",
+        "Voices": {
+            "US": {
+                "Question": "./media/audio/exercise/US_M606_question.mp3",
+                "AnswerA": "./media/audio/exercise/US_M606_answer1.mp3",
+                "AnswerB": "./media/audio/exercise/US_M606_answer2.mp3",
+                "AnswerC": "./media/audio/exercise/US_M606_answer3.mp3"
+            },
+            "IN": {
+                "Question": "./media/audio/exercise/IN_M606_question.mp3",
+                "AnswerA": "./media/audio/exercise/IN_M606_answer1.mp3",
+                "AnswerB": "./media/audio/exercise/IN_M606_answer2.mp3",
+                "AnswerC": "./media/audio/exercise/IN_M606_answer3.mp3"
+            }
+        }
+    },
+    {
+        "ID": "M607",
+        "Question": "Why did you make a detour?",
+        "AnswerA": "Since the tour guide was chosen.",
+        "AnswerB": "There is construction being done on Elm Street.",
+        "AnswerC": "From this morning.",
+        "CorrectAnswer": "B",
+        "Voices": {
+            "US": {
+                "Question": "./media/audio/exercise/US_M607_question.mp3",
+                "AnswerA": "./media/audio/exercise/US_M607_answer1.mp3",
+                "AnswerB": "./media/audio/exercise/US_M607_answer2.mp3",
+                "AnswerC": "./media/audio/exercise/US_M607_answer3.mp3"
+            },
+            "IN": {
+                "Question": "./media/audio/exercise/IN_M607_question.mp3",
+                "AnswerA": "./media/audio/exercise/IN_M607_answer1.mp3",
+                "AnswerB": "./media/audio/exercise/IN_M607_answer2.mp3",
+                "AnswerC": "./media/audio/exercise/IN_M607_answer3.mp3"
+            }
+        }
+    },
+    {
+        "ID": "M608",
+        "Question": "I'm interested in your art gallery.",
+        "AnswerA": "I'll show you around.",
+        "AnswerB": "No, it's in the garage.",
+        "AnswerC": "Cut in interest rates.",
+        "CorrectAnswer": "A",
+        "Voices": {
+            "US": {
+                "Question": "./media/audio/exercise/US_M608_question.mp3",
+                "AnswerA": "./media/audio/exercise/US_M608_answer1.mp3",
+                "AnswerB": "./media/audio/exercise/US_M608_answer2.mp3",
+                "AnswerC": "./media/audio/exercise/US_M608_answer3.mp3"
+            },
+            "IN": {
+                "Question": "./media/audio/exercise/IN_M608_question.mp3",
+                "AnswerA": "./media/audio/exercise/IN_M608_answer1.mp3",
+                "AnswerB": "./media/audio/exercise/IN_M608_answer2.mp3",
+                "AnswerC": "./media/audio/exercise/IN_M608_answer3.mp3"
+            }
+        }
+    },
+    {
+        "ID": "M609",
+        "Question": "Do we pick up the guests from the airport or ask them to take public transportation?",
+        "AnswerA": "You can pick one up.",
+        "AnswerB": "Please drop it off.",
+        "AnswerC": "I'll call them later.",
+        "CorrectAnswer": "C",
+        "Voices": {
+            "US": {
+                "Question": "./media/audio/exercise/US_M609_question.mp3",
+                "AnswerA": "./media/audio/exercise/US_M609_answer1.mp3",
+                "AnswerB": "./media/audio/exercise/US_M609_answer2.mp3",
+                "AnswerC": "./media/audio/exercise/US_M609_answer3.mp3"
+            },
+            "IN": {
+                "Question": "./media/audio/exercise/IN_M609_question.mp3",
+                "AnswerA": "./media/audio/exercise/IN_M609_answer1.mp3",
+                "AnswerB": "./media/audio/exercise/IN_M609_answer2.mp3",
+                "AnswerC": "./media/audio/exercise/IN_M609_answer3.mp3"
+            }
+        }
+    },
+    {
+        "ID": "M610",
+        "Question": "Haven't we chosen a person to do our cover illustrations?",
+        "AnswerA": "We're still narrowing it down.",
+        "AnswerB": "He finally decided to design costumes.",
+        "AnswerC": "It was covered in local newspapers.",
+        "CorrectAnswer": "A",
+        "Voices": {
+            "US": {
+                "Question": "./media/audio/exercise/US_M610_question.mp3",
+                "AnswerA": "./media/audio/exercise/US_M610_answer1.mp3",
+                "AnswerB": "./media/audio/exercise/US_M610_answer2.mp3",
+                "AnswerC": "./media/audio/exercise/US_M610_answer3.mp3"
+            },
+            "IN": {
+                "Question": "./media/audio/exercise/IN_M610_question.mp3",
+                "AnswerA": "./media/audio/exercise/IN_M610_answer1.mp3",
+                "AnswerB": "./media/audio/exercise/IN_M610_answer2.mp3",
+                "AnswerC": "./media/audio/exercise/IN_M610_answer3.mp3"
+            }
+        }
+    },
+    {
+        "ID": "M611",
+        "Question": "One of the rest of the machine parts supposed to arrive.",
+        "AnswerA": "Could you call the supplier?",
+        "AnswerB": "Across from the apartment.",
+        "AnswerC": "We'll arrive a little earlier.",
+        "CorrectAnswer": "A",
+        "Voices": {
+            "US": {
+                "Question": "./media/audio/exercise/US_M611_question.mp3",
+                "AnswerA": "./media/audio/exercise/US_M611_answer1.mp3",
+                "AnswerB": "./media/audio/exercise/US_M611_answer2.mp3",
+                "AnswerC": "./media/audio/exercise/US_M611_answer3.mp3"
+            },
+            "IN": {
+                "Question": "./media/audio/exercise/IN_M611_question.mp3",
+                "AnswerA": "./media/audio/exercise/IN_M611_answer1.mp3",
+                "AnswerB": "./media/audio/exercise/IN_M611_answer2.mp3",
+                "AnswerC": "./media/audio/exercise/IN_M611_answer3.mp3"
+            }
+        }
+    },
+    {
+        "ID": "M612",
+        "Question": "What color should we choose for our new logo?",
+        "AnswerA": "Bruce goes there now.",
+        "AnswerB": "Everything's ready.",
+        "AnswerC": "Why don't we take a poll?",
+        "CorrectAnswer": "C",
+        "Voices": {
+            "US": {
+                "Question": "./media/audio/exercise/US_M612_question.mp3",
+                "AnswerA": "./media/audio/exercise/US_M612_answer1.mp3",
+                "AnswerB": "./media/audio/exercise/US_M612_answer2.mp3",
+                "AnswerC": "./media/audio/exercise/US_M612_answer3.mp3"
+            },
+            "IN": {
+                "Question": "./media/audio/exercise/IN_M612_question.mp3",
+                "AnswerA": "./media/audio/exercise/IN_M612_answer1.mp3",
+                "AnswerB": "./media/audio/exercise/IN_M612_answer2.mp3",
+                "AnswerC": "./media/audio/exercise/IN_M612_answer3.mp3"
+            }
+        }
+    },
+    {
+        "ID": "M613",
+        "Question": "When will the company van be returned?",
+        "AnswerA": "To a designated space.",
+        "AnswerB": "The updated schedule will be sent soon.",
+        "AnswerC": "Please return the business card.",
+        "CorrectAnswer": "B",
+        "Voices": {
+            "US": {
+                "Question": "./media/audio/exercise/US_M613_question.mp3",
+                "AnswerA": "./media/audio/exercise/US_M613_answer1.mp3",
+                "AnswerB": "./media/audio/exercise/US_M613_answer2.mp3",
+                "AnswerC": "./media/audio/exercise/US_M613_answer3.mp3"
+            },
+            "IN": {
+                "Question": "./media/audio/exercise/IN_M613_question.mp3",
+                "AnswerA": "./media/audio/exercise/IN_M613_answer1.mp3",
+                "AnswerB": "./media/audio/exercise/IN_M613_answer2.mp3",
+                "AnswerC": "./media/audio/exercise/IN_M613_answer3.mp3"
+            }
+        }
+    },
+    {
+        "ID": "M614",
+        "Question": "What else is necessary to complete this task?",
+        "AnswerA": "Yes, he will be missed.",
+        "AnswerB": "Why'd you go to the interview?",
+        "AnswerC": "An expert at hiring people.",
+        "CorrectAnswer": "C",
+        "Voices": {
+            "US": {
+                "Question": "./media/audio/exercise/US_M614_question.mp3",
+                "AnswerA": "./media/audio/exercise/US_M614_answer1.mp3",
+                "AnswerB": "./media/audio/exercise/US_M614_answer2.mp3",
+                "AnswerC": "./media/audio/exercise/US_M614_answer3.mp3"
+            },
+            "IN": {
+                "Question": "./media/audio/exercise/IN_M614_question.mp3",
+                "AnswerA": "./media/audio/exercise/IN_M614_answer1.mp3",
+                "AnswerB": "./media/audio/exercise/IN_M614_answer2.mp3",
+                "AnswerC": "./media/audio/exercise/IN_M614_answer3.mp3"
+            }
+        }
+    },
+    {
+        "ID": "M615",
+        "Question": "Raymond is still looking for some new sunglasses.",
+        "AnswerA": "Why don't you recommend these?",
+        "AnswerB": "I've been there recently.",
+        "AnswerC": "It can cause skin damage.",
+        "CorrectAnswer": "A",
+        "Voices": {
+            "US": {
+                "Question": "./media/audio/exercise/US_M615_question.mp3",
+                "AnswerA": "./media/audio/exercise/US_M615_answer1.mp3",
+                "AnswerB": "./media/audio/exercise/US_M615_answer2.mp3",
+                "AnswerC": "./media/audio/exercise/US_M615_answer3.mp3"
+            },
+            "IN": {
+                "Question": "./media/audio/exercise/IN_M615_question.mp3",
+                "AnswerA": "./media/audio/exercise/IN_M615_answer1.mp3",
+                "AnswerB": "./media/audio/exercise/IN_M615_answer2.mp3",
+                "AnswerC": "./media/audio/exercise/IN_M615_answer3.mp3"
+            }
+        }
+    },
+    {
+        "ID": "M616",
+        "Question": "The event coordinator postponed the annual fashion show, didn't he?",
+        "AnswerA": "That comes as a shock.",
+        "AnswerB": "We should contact her soon.",
+        "AnswerC": "Could you show me the prototype?",
+        "CorrectAnswer": "A",
+        "Voices": {
+            "US": {
+                "Question": "./media/audio/exercise/US_M616_question.mp3",
+                "AnswerA": "./media/audio/exercise/US_M616_answer1.mp3",
+                "AnswerB": "./media/audio/exercise/US_M616_answer2.mp3",
+                "AnswerC": "./media/audio/exercise/US_M616_answer3.mp3"
+            },
+            "IN": {
+                "Question": "./media/audio/exercise/IN_M616_question.mp3",
+                "AnswerA": "./media/audio/exercise/IN_M616_answer1.mp3",
+                "AnswerB": "./media/audio/exercise/IN_M616_answer2.mp3",
+                "AnswerC": "./media/audio/exercise/IN_M616_answer3.mp3"
+            }
+        }
+    },
+    {
+        "ID": "M617",
+        "Question": "Could you please finish the report as soon as possible?",
+        "AnswerA": "I'll do it now.",
+        "AnswerB": "So am I.",
+        "AnswerC": "Yes, you could.",
+        "CorrectAnswer": "A",
+        "Voices": {
+            "US": {
+                "Question": "./media/audio/exercise/US_M617_question.mp3",
+                "AnswerA": "./media/audio/exercise/US_M617_answer1.mp3",
+                "AnswerB": "./media/audio/exercise/US_M617_answer2.mp3",
+                "AnswerC": "./media/audio/exercise/US_M617_answer3.mp3"
+            },
+            "IN": {
+                "Question": "./media/audio/exercise/IN_M617_question.mp3",
+                "AnswerA": "./media/audio/exercise/IN_M617_answer1.mp3",
+                "AnswerB": "./media/audio/exercise/IN_M617_answer2.mp3",
+                "AnswerC": "./media/audio/exercise/IN_M617_answer3.mp3"
+            }
+        }
+    },
+    {
+        "ID": "M618",
+        "Question": "How much will our departmental budget increase next year?",
+        "AnswerA": "Yes, a 15% decrease.",
+        "AnswerB": "It's subject to our sales results.",
+        "AnswerC": "The lease contract must be renewed.",
+        "CorrectAnswer": "B",
+        "Voices": {
+            "US": {
+                "Question": "./media/audio/exercise/US_M618_question.mp3",
+                "AnswerA": "./media/audio/exercise/US_M618_answer1.mp3",
+                "AnswerB": "./media/audio/exercise/US_M618_answer2.mp3",
+                "AnswerC": "./media/audio/exercise/US_M618_answer3.mp3"
+            },
+            "IN": {
+                "Question": "./media/audio/exercise/IN_M618_question.mp3",
+                "AnswerA": "./media/audio/exercise/IN_M618_answer1.mp3",
+                "AnswerB": "./media/audio/exercise/IN_M618_answer2.mp3",
+                "AnswerC": "./media/audio/exercise/IN_M618_answer3.mp3"
+            }
+        }
+    },
+    {
+        "ID": "M619",
+        "Question": "Do you have any ideas about celebrating Timothy's retirement?",
+        "AnswerA": "He worked harder than expected.",
+        "AnswerB": "I have an appointment at 4:00.",
+        "AnswerC": "A party would be nice.",
+        "CorrectAnswer": "C",
+        "Voices": {
+            "US": {
+                "Question": "./media/audio/exercise/US_M619_question.mp3",
+                "AnswerA": "./media/audio/exercise/US_M619_answer1.mp3",
+                "AnswerB": "./media/audio/exercise/US_M619_answer2.mp3",
+                "AnswerC": "./media/audio/exercise/US_M619_answer3.mp3"
+            },
+            "IN": {
+                "Question": "./media/audio/exercise/IN_M619_question.mp3",
+                "AnswerA": "./media/audio/exercise/IN_M619_answer1.mp3",
+                "AnswerB": "./media/audio/exercise/IN_M619_answer2.mp3",
+                "AnswerC": "./media/audio/exercise/IN_M619_answer3.mp3"
+            }
+        }
+    },
+    {
+        "ID": "M620",
+        "Question": "Have you decided to purchase this black sofa?",
+        "AnswerA": "It should be side by side.",
+        "AnswerB": "I need to take some measurements.",
+        "AnswerC": "I'd rather paint it in blue.",
+        "CorrectAnswer": "B",
+        "Voices": {
+            "US": {
+                "Question": "./media/audio/exercise/US_M620_question.mp3",
+                "AnswerA": "./media/audio/exercise/US_M620_answer1.mp3",
+                "AnswerB": "./media/audio/exercise/US_M620_answer2.mp3",
+                "AnswerC": "./media/audio/exercise/US_M620_answer3.mp3"
+            },
+            "IN": {
+                "Question": "./media/audio/exercise/IN_M620_question.mp3",
+                "AnswerA": "./media/audio/exercise/IN_M620_answer1.mp3",
+                "AnswerB": "./media/audio/exercise/IN_M620_answer2.mp3",
+                "AnswerC": "./media/audio/exercise/IN_M620_answer3.mp3"
+            }
+        }
+    },
+    {
+        "ID": "M621",
+        "Question": "What if two of us go on a business trip?",
+        "AnswerA": "Every other week.",
+        "AnswerB": "Some manuals would be needed.",
+        "AnswerC": "Please say hello to him.",
+        "CorrectAnswer": "B",
+        "Voices": {
+            "US": {
+                "Question": "./media/audio/exercise/US_M621_question.mp3",
+                "AnswerA": "./media/audio/exercise/US_M621_answer1.mp3",
+                "AnswerB": "./media/audio/exercise/US_M621_answer2.mp3",
+                "AnswerC": "./media/audio/exercise/US_M621_answer3.mp3"
+            },
+            "IN": {
+                "Question": "./media/audio/exercise/IN_M621_question.mp3",
+                "AnswerA": "./media/audio/exercise/IN_M621_answer1.mp3",
+                "AnswerB": "./media/audio/exercise/IN_M621_answer2.mp3",
+                "AnswerC": "./media/audio/exercise/IN_M621_answer3.mp3"
+            }
+        }
+    },
+    {
+        "ID": "M622",
+        "Question": "Who will be meeting with Miss Fields?",
+        "AnswerA": "Some auditors, I heard.",
+        "AnswerB": "She's a nice person.",
+        "AnswerC": "Do you want something to eat?",
+        "CorrectAnswer": "A",
+        "Voices": {
+            "US": {
+                "Question": "./media/audio/exercise/US_M622_question.mp3",
+                "AnswerA": "./media/audio/exercise/US_M622_answer1.mp3",
+                "AnswerB": "./media/audio/exercise/US_M622_answer2.mp3",
+                "AnswerC": "./media/audio/exercise/US_M622_answer3.mp3"
+            },
+            "IN": {
+                "Question": "./media/audio/exercise/IN_M622_question.mp3",
+                "AnswerA": "./media/audio/exercise/IN_M622_answer1.mp3",
+                "AnswerB": "./media/audio/exercise/IN_M622_answer2.mp3",
+                "AnswerC": "./media/audio/exercise/IN_M622_answer3.mp3"
+            }
+        }
+    },
+    {
+        "ID": "M623",
+        "Question": "Can you help me out with these boxes?",
+        "AnswerA": "Aisle or window.",
+        "AnswerB": "Yes you can.",
+        "AnswerC": "A ladder would be needed.",
+        "CorrectAnswer": "C",
+        "Voices": {
+            "US": {
+                "Question": "./media/audio/exercise/US_M623_question.mp3",
+                "AnswerA": "./media/audio/exercise/US_M623_answer1.mp3",
+                "AnswerB": "./media/audio/exercise/US_M623_answer2.mp3",
+                "AnswerC": "./media/audio/exercise/US_M623_answer3.mp3"
+            },
+            "IN": {
+                "Question": "./media/audio/exercise/IN_M623_question.mp3",
+                "AnswerA": "./media/audio/exercise/IN_M623_answer1.mp3",
+                "AnswerB": "./media/audio/exercise/IN_M623_answer2.mp3",
+                "AnswerC": "./media/audio/exercise/IN_M623_answer3.mp3"
+            }
+        }
+    },
+    {
+        "ID": "M624",
+        "Question": "Excuse me, can I get you something to drink?",
+        "AnswerA": "I turned it off.",
+        "AnswerB": "That's the special announcement.",
+        "AnswerC": "Is there an additional charge?",
+        "CorrectAnswer": "C",
+        "Voices": {
+            "US": {
+                "Question": "./media/audio/exercise/US_M624_question.mp3",
+                "AnswerA": "./media/audio/exercise/US_M624_answer1.mp3",
+                "AnswerB": "./media/audio/exercise/US_M624_answer2.mp3",
+                "AnswerC": "./media/audio/exercise/US_M624_answer3.mp3"
+            },
+            "IN": {
+                "Question": "./media/audio/exercise/IN_M624_question.mp3",
+                "AnswerA": "./media/audio/exercise/IN_M624_answer1.mp3",
+                "AnswerB": "./media/audio/exercise/IN_M624_answer2.mp3",
+                "AnswerC": "./media/audio/exercise/IN_M624_answer3.mp3"
+            }
+        }
+    },
+    {
+        "ID": "M625",
+        "Question": "Who's been selected to create cost effective plans?",
+        "AnswerA": "Select the best answer.",
+        "AnswerB": "They're using quality concrete.",
+        "AnswerC": "It's still being deliberated.",
+        "CorrectAnswer": "C",
+        "Voices": {
+            "US": {
+                "Question": "./media/audio/exercise/US_M625_question.mp3",
+                "AnswerA": "./media/audio/exercise/US_M625_answer1.mp3",
+                "AnswerB": "./media/audio/exercise/US_M625_answer2.mp3",
+                "AnswerC": "./media/audio/exercise/US_M625_answer3.mp3"
+            },
+            "IN": {
+                "Question": "./media/audio/exercise/IN_M625_question.mp3",
+                "AnswerA": "./media/audio/exercise/IN_M625_answer1.mp3",
+                "AnswerB": "./media/audio/exercise/IN_M625_answer2.mp3",
+                "AnswerC": "./media/audio/exercise/IN_M625_answer3.mp3"
+            }
+        }
+    },
+    {
+        "ID": "M626",
+        "Question": "How much did you spend on renovation of the research lab?",
+        "AnswerA": "Not too hurried.",
+        "AnswerB": "I spent time with my relatives.",
+        "AnswerC": "All of the documentation is in my drawer.",
+        "CorrectAnswer": "C",
+        "Voices": {
+            "US": {
+                "Question": "./media/audio/exercise/US_M626_question.mp3",
+                "AnswerA": "./media/audio/exercise/US_M626_answer1.mp3",
+                "AnswerB": "./media/audio/exercise/US_M626_answer2.mp3",
+                "AnswerC": "./media/audio/exercise/US_M626_answer3.mp3"
+            },
+            "IN": {
+                "Question": "./media/audio/exercise/IN_M626_question.mp3",
+                "AnswerA": "./media/audio/exercise/IN_M626_answer1.mp3",
+                "AnswerB": "./media/audio/exercise/IN_M626_answer2.mp3",
+                "AnswerC": "./media/audio/exercise/IN_M626_answer3.mp3"
+            }
+        }
+    },
+    {
+        "ID": "M627",
+        "Question": "How are the finalists for the design competition selected?",
+        "AnswerA": "Their portfolios were evaluated.",
+        "AnswerB": "There is a special dinner.",
+        "AnswerC": "Yes, they are.",
+        "CorrectAnswer": "A",
+        "Voices": {
+            "US": {
+                "Question": "./media/audio/exercise/US_M627_question.mp3",
+                "AnswerA": "./media/audio/exercise/US_M627_answer1.mp3",
+                "AnswerB": "./media/audio/exercise/US_M627_answer2.mp3",
+                "AnswerC": "./media/audio/exercise/US_M627_answer3.mp3"
+            },
+            "IN": {
+                "Question": "./media/audio/exercise/IN_M627_question.mp3",
+                "AnswerA": "./media/audio/exercise/IN_M627_answer1.mp3",
+                "AnswerB": "./media/audio/exercise/IN_M627_answer2.mp3",
+                "AnswerC": "./media/audio/exercise/IN_M627_answer3.mp3"
+            }
+        }
+    },
+    {
+        "ID": "M628",
+        "Question": "Whose turn is it to order our office supplies this time?",
+        "AnswerA": "Turn right at the intersection.",
+        "AnswerB": "Is that free of charge.",
+        "AnswerC": "Vanessa did it last time.",
+        "CorrectAnswer": "C",
+        "Voices": {
+            "US": {
+                "Question": "./media/audio/exercise/US_M628_question.mp3",
+                "AnswerA": "./media/audio/exercise/US_M628_answer1.mp3",
+                "AnswerB": "./media/audio/exercise/US_M628_answer2.mp3",
+                "AnswerC": "./media/audio/exercise/US_M628_answer3.mp3"
+            },
+            "IN": {
+                "Question": "./media/audio/exercise/IN_M628_question.mp3",
+                "AnswerA": "./media/audio/exercise/IN_M628_answer1.mp3",
+                "AnswerB": "./media/audio/exercise/IN_M628_answer2.mp3",
+                "AnswerC": "./media/audio/exercise/IN_M628_answer3.mp3"
+            }
+        }
     }
 ]
