@@ -1,0 +1,100 @@
+{
+    "US": {
+        "number": {
+            "1": "./media/audio/announce/US_No_1.mp3",
+            "2": "./media/audio/announce/US_No_2.mp3",
+            "3": "./media/audio/announce/US_No_3.mp3",
+            "4": "./media/audio/announce/US_No_4.mp3",
+            "5": "./media/audio/announce/US_No_5.mp3",
+            "6": "./media/audio/announce/US_No_6.mp3",
+            "7": "./media/audio/announce/US_No_7.mp3",
+            "8": "./media/audio/announce/US_No_8.mp3",
+            "9": "./media/audio/announce/US_No_9.mp3",
+            "10": "./media/audio/announce/US_No_10.mp3",
+            "11": "./media/audio/announce/US_No_11.mp3",
+            "12": "./media/audio/announce/US_No_12.mp3",
+            "13": "./media/audio/announce/US_No_13.mp3",
+            "14": "./media/audio/announce/US_No_14.mp3",
+            "15": "./media/audio/announce/US_No_15.mp3",
+            "16": "./media/audio/announce/US_No_16.mp3",
+            "17": "./media/audio/announce/US_No_17.mp3",
+            "18": "./media/audio/announce/US_No_18.mp3",
+            "19": "./media/audio/announce/US_No_19.mp3",
+            "20": "./media/audio/announce/US_No_20.mp3",
+            "21": "./media/audio/announce/US_No_21.mp3",
+            "22": "./media/audio/announce/US_No_22.mp3",
+            "23": "./media/audio/announce/US_No_23.mp3",
+            "24": "./media/audio/announce/US_No_24.mp3",
+            "25": "./media/audio/announce/US_No_25.mp3"
+        },
+        "label": {
+            "A": "./media/audio/announce/US_A.mp3",
+            "B": "./media/audio/announce/US_B.mp3",
+            "C": "./media/audio/announce/US_C.mp3"
+        },
+        "announce": {
+            "correct": "./media/audio/announce/US_correct.mp3",
+            "incorrect": "./media/audio/announce/US_incorrect.mp3",
+            "correct_answer_is": "./media/audio/announce/US_correct_answer_is.mp3",
+            "perfect": "./media/audio/announce/US_perfect.mp3",
+            "excellent": "./media/audio/announce/US_excellent.mp3",
+            "welldone": "./media/audio/announce/US_welldone.mp3",
+            "go_for_it": "./media/audio/announce/US_goforit.mp3"
+        },
+        "directions": {
+            "part2": {
+                "10": "./media/audio/announce/US_part2_directions_10.mp3",
+                "25": "./media/audio/announce/US_part2_directions_25.mp3"
+            }
+        }
+    },
+    "IN": {
+        "number": {
+            "1": "./media/audio/announce/IN_No_1.mp3",
+            "2": "./media/audio/announce/IN_No_2.mp3",
+            "3": "./media/audio/announce/IN_No_3.mp3",
+            "4": "./media/audio/announce/IN_No_4.mp3",
+            "5": "./media/audio/announce/IN_No_5.mp3",
+            "6": "./media/audio/announce/IN_No_6.mp3",
+            "7": "./media/audio/announce/IN_No_7.mp3",
+            "8": "./media/audio/announce/IN_No_8.mp3",
+            "9": "./media/audio/announce/IN_No_9.mp3",
+            "10": "./media/audio/announce/IN_No_10.mp3",
+            "11": "./media/audio/announce/IN_No_11.mp3",
+            "12": "./media/audio/announce/IN_No_12.mp3",
+            "13": "./media/audio/announce/IN_No_13.mp3",
+            "14": "./media/audio/announce/IN_No_14.mp3",
+            "15": "./media/audio/announce/IN_No_15.mp3",
+            "16": "./media/audio/announce/IN_No_16.mp3",
+            "17": "./media/audio/announce/IN_No_17.mp3",
+            "18": "./media/audio/announce/IN_No_18.mp3",
+            "19": "./media/audio/announce/IN_No_19.mp3",
+            "20": "./media/audio/announce/IN_No_20.mp3",
+            "21": "./media/audio/announce/IN_No_21.mp3",
+            "22": "./media/audio/announce/IN_No_22.mp3",
+            "23": "./media/audio/announce/IN_No_23.mp3",
+            "24": "./media/audio/announce/IN_No_24.mp3",
+            "25": "./media/audio/announce/IN_No_25.mp3"
+        },
+        "label": {
+            "A": "./media/audio/announce/IN_A.mp3",
+            "B": "./media/audio/announce/IN_B.mp3",
+            "C": "./media/audio/announce/IN_C.mp3"
+        },
+        "announce": {
+            "correct": "./media/audio/announce/IN_correct.mp3",
+            "incorrect": "./media/audio/announce/IN_incorrect.mp3",
+            "correct_answer_is": "./media/audio/announce/IN_correct_answer_is.mp3",
+            "perfect": "./media/audio/announce/IN_perfect.mp3",
+            "excellent": "./media/audio/announce/IN_excellent.mp3",
+            "welldone": "./media/audio/announce/IN_welldone.mp3",
+            "go_for_it": "./media/audio/announce/IN_goforit.mp3"
+        },
+        "directions": {
+            "part2": {
+                "10": "./media/audio/announce/IN_part2_directions_10.mp3",
+                "25": "./media/audio/announce/IN_part2_directions_25.mp3"
+            }
+        }
+    }
+}

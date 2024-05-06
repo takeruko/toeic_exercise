@@ -1,0 +1,117 @@
+body {
+    background-color:dimgray;
+}
+
+i.playicon-for-button {
+    vertical-align: middle;
+}
+
+@media only screen and (max-width: 480px) { /* for mobile phone screen */
+    #main {
+        background-color: white;
+        min-height: 100vh;
+        margin: auto;
+        width: 100%;
+    }
+
+    .menu-btn {
+        min-width: 300px;
+    }
+}
+@media only screen and (min-width: 480px) { /* for PC screen */
+    #main {
+        background-color: white;
+        min-height: 100vh;
+        margin: auto;
+        max-width: 480px;
+    }
+
+    .menu-btn {
+        min-width: 370px;
+    }
+}
+
+.func-btn {
+    min-width: 150px;
+}
+
+.question-text-area {
+    min-height: 4em;
+}
+
+.answer-text-area {
+    min-height: 3em;
+}
+
+.hidden {
+    visibility: hidden;
+}
+
+.correct-answer {
+    color:green;
+}
+
+.incorrect-answer {
+    color:red;
+}
+
+#show-qrcode {
+    display: none;
+}
+
+#show-qrcode-label {
+    color: white;
+}
+
+/* ポップアップwindow部分 */
+#overlay {
+    visibility: hidden;
+    position: absolute;
+    left: 0;
+    top: 0;
+    z-index: 70;
+    width: 100%;
+    height: 100%;
+}
+/* オーバーレイの背景部分 */
+#bg_gray {
+    background: rgba(0,0,0,0.5);
+    width: 100%;
+    height: 100%;
+    position: fixed;
+    left: 0;
+    top: 0;
+    z-index: 80;
+}
+/* ウィンドウ部分 */
+#qrcode-window {
+    width: 330px;
+    min-width: 330px;
+    padding: 20px;
+    position: fixed;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%,-50%);
+    background: #fff;
+    border-radius: 10px;
+    box-shadow: 0px 0px 20px -6px rgba(0,0,0,0.6);
+    z-index: 90;
+    opacity: 0;
+}
+#qrcode-description {
+    text-align: center;
+}
+
+/* クリックで表示 */
+#show-qrcode:checked ~ #overlay {
+    visibility: visible;
+}
+#show-qrcode:checked ~ #overlay #qrcode-window {
+    animation: fadein 500ms forwards;
+    animation-timing-function: ease-in-out;
+}
+@keyframes fadein {
+    100% {
+        opacity: 1;
+    }
+}
