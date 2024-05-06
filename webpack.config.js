@@ -15,7 +15,9 @@ module.exports = {
             publicPath: '/toeic_exercise'
         },
         open: ['/toeic_exercise'],
-        historyApiFallback: true
+        historyApiFallback: {
+            index: '/toeic_exercise/index.html'
+        }
     },
     module: {
         rules: [{
