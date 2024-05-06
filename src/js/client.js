@@ -120,36 +120,36 @@ const ToeicApp = () => {
   };
 
   return (
-    <BrowserRouter basename='/toeic_exercise'>
+    <BrowserRouter history={createBrowserHistory}>
         <Routes>
-          <Route exact path="/" element={
-            <MenuScreen />
-          } />
-          <Route path="/Part2Menu" element={
-            <Part2Menu
-              setExams={setExams}
-              player={player} />
-          } />
-          <Route path="/Part2Direction" element={
-            <Part2Direction
-              exams={exams}
-              setCurrentExamNumber={setCurrentExamNumber}
-              player={player} />
-          } />
-          <Route path="/Part2Exercise" element={
-            <Part2Exercise
-              exams={exams}
-              currentExamNumber={currentExamNumber}
-              setCurrentExamNumber={setCurrentExamNumber}
-              correctCount={correctCount}
-              setCorrectCount={setCorrectCount}
-              setResult={setResult}
-              getResult={get_result}
-              player={player} />
-          } />
-          <Route path="/Result" element={
-            <Result result={result} />
-          } />
+          <Route exact path="/">
+            <Route index element={<MenuScreen />} />
+            <Route path="Part2Menu" element={
+              <Part2Menu
+                setExams={setExams}
+                player={player} />
+              } />
+              <Route path="Part2Direction" element={
+                <Part2Direction
+                  exams={exams}
+                  setCurrentExamNumber={setCurrentExamNumber}
+                  player={player} />
+              } />
+              <Route path="Part2Exercise" element={
+                <Part2Exercise
+                  exams={exams}
+                  currentExamNumber={currentExamNumber}
+                  setCurrentExamNumber={setCurrentExamNumber}
+                  correctCount={correctCount}
+                  setCorrectCount={setCorrectCount}
+                  setResult={setResult}
+                  getResult={get_result}
+                  player={player} />
+              } />
+              <Route path="Result" element={
+                <Result result={result} />
+              } />
+          </Route>
         </Routes>
     </BrowserRouter>
   );
