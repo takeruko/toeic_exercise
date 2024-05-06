@@ -120,7 +120,7 @@ const ToeicApp = () => {
   };
 
   return (
-    <BrowserRouter history={customizedhistory}>
+    <BrowserRouter basename='/toeic_exercise'>
         <Routes>
           <Route exact path="/" element={
             <MenuScreen />
