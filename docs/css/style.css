@@ -6,6 +6,10 @@ i.playicon-for-button {
     vertical-align: middle;
 }
 
+i.bi-play-circle {
+    cursor: pointer;
+}
+
 @media only screen and (max-width: 480px) { /* for mobile phone screen */
     #main {
         background-color: white;
