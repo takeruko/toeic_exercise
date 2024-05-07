@@ -184,16 +184,17 @@ const Part2Menu = ({
   player
 }) => {
   const [selectedOption, setSelectedOption] = useState('US');
+  player.voice_type = selectedOption;
   
   const playDirections = (size) => {
     var exams = getExams(size);
     setExams(exams);
-    player.voice_type = selectedOption;
     player.play_directions(exams.length);
   };
 
   const onSelectOption = (e) => {
     setSelectedOption(e.target.value);
+    player.voice_type = e.target.value;
   }
 
   return(
