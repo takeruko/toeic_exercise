@@ -3,15 +3,18 @@ export class AudioPlayer {
     #announce_voices;
     #voice_type;
     #exam_voices;
+    #part;
 
     #audioList;
     
-    constructor(announce_voices, voice_type) {
+    constructor(announce_voices, voice_type, part) {
+        this.#part = part;
         this.#audioList = {};
         const create_audio = (audio_name) => {
             this.#audioList[audio_name] = new Audio();
         };
-        create_audio('directions');
+        create_audio('directions_10');
+        create_audio('directions_25');
         create_audio('announce_a');
         create_audio('announce_b');
         create_audio('announce_c');
@@ -38,6 +41,13 @@ export class AudioPlayer {
 
     set voice_type(voice_type) {
         this.#voice_type = voice_type;
+
+        const setDirectionsAudio = (exam_count) => {
+            this.#audioList['directions_' + exam_count].src = this.#announce_voices[this.#voice_type]["directions"][this.#part][exam_count];
+            this.#audioList['directions_' + exam_count].load();
+        };
+        setDirectionsAudio(10);
+        setDirectionsAudio(25);
 
         const setLabelAudio = (audio_name, label) => {
             this.#audioList[audio_name].src = this.#announce_voices[this.#voice_type]["label"][label];
@@ -79,10 +89,8 @@ export class AudioPlayer {
         this.#audioList['exam_answer_c'].load();
     };
 
-    play_directions(part, exam_count) {
-        this.#audioList['directions'].src = this.#announce_voices[this.#voice_type]["directions"][part][exam_count];
-        this.#audioList['directions'].load();
-        this.#playAudio('directions');
+    play_directions(exam_count) {
+        this.#playAudio('directions_' + exam_count);
     };
 
     play_exam(num, exam) {
