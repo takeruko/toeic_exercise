@@ -102,7 +102,7 @@ const ToeicApp = () => {
   const [exams, setExams] = useState();
   const [currentExamNumber, setCurrentExamNumber] = useState();
   const [correctCount, setCorrectCount] = useState(0);
-  const [player, setPlayer] = useState(new AudioPlayer(voices, 'US'));
+  const [player, setPlayer] = useState(new AudioPlayer(voices, 'US', 'part2'));
   const [result, setResult] = useState();
 
   const get_result = () => {
@@ -189,7 +189,7 @@ const Part2Menu = ({
     var exams = getExams(size);
     setExams(exams);
     player.voice_type = selectedOption;
-    player.play_directions('part2', exams.length);
+    player.play_directions(exams.length);
   };
 
   const onSelectOption = (e) => {
@@ -336,17 +336,17 @@ const Part2Exercise = ({
       </div>
       <div className="fs-4 fw-bold p-1 m-1">
         <span>No.{currentExamNumber}</span>
-        <i className="bi bi-play-circle m-2" onClick={() => player.replay_exam()} />
+        <i className="bi bi-play-circle m-2 link-primary link-opacity-50-hover" onClick={() => player.replay_exam()} />
       </div>
       <div className="p-1 m-1">
         <span className="fs-4 fw-bold">Question</span>
-        <i className="bi bi-play-circle fs-4 m-2" onClick={() => player.replay_question()} />
+        <i className="bi bi-play-circle fs-4 m-2 link-primary link-opacity-50-hover" onClick={() => player.replay_question()} />
         <div className={show_answer() + " p-2 question-text-area"}>{question_text}</div>
       </div>
       <div className="p-1 m-1">
         <div className="text-center">
           <button className={enable_button() + " menu-btn"} onClick={() => eval_answer('A')}>A</button>
-          <i className="bi bi-play-circle playicon-for-button fs-4 m-2" onClick={() => player.replay_answer('A')} />
+          <i className="bi bi-play-circle playicon-for-button fs-4 m-2 link-primary link-opacity-50-hover" onClick={() => player.replay_answer('A')} />
         </div>
         <div className={show_answer('A') + " d-flex flex-row p-2"}>
           <div><i className={show_correct_mark('A') + ' m-2'} /></div>
@@ -356,7 +356,7 @@ const Part2Exercise = ({
       <div className="p-1 m-1">
         <div className="text-center">
           <button className={enable_button() + " menu-btn"} onClick={() => eval_answer('B')}>B</button>
-          <i className="bi bi-play-circle playicon-for-button fs-4 m-2" onClick={() => player.replay_answer('B')} />
+          <i className="bi bi-play-circle playicon-for-button fs-4 m-2 link-primary link-opacity-50-hover" onClick={() => player.replay_answer('B')} />
         </div>
         <div className={show_answer('B') + " d-flex flex-row p-2"}>
           <div><i className={show_correct_mark('B') + ' m-2'} /></div>
@@ -366,7 +366,7 @@ const Part2Exercise = ({
       <div className="p-1 m-1">
         <div className="text-center">
           <button className={enable_button() + " menu-btn"} onClick={() => eval_answer('C')}>C</button>
-          <i className="bi bi-play-circle playicon-for-button fs-4 m-2" onClick={() => player.replay_answer('C')} />
+          <i className="bi bi-play-circle playicon-for-button fs-4 m-2 link-primary link-opacity-50-hover" onClick={() => player.replay_answer('C')} />
         </div>
         <div className={show_answer('C') + " d-flex flex-row p-2"}>
           <div><i className={show_correct_mark('C') + ' m-2'} /></div>
