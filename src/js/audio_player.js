@@ -13,6 +13,7 @@ export class AudioPlayer {
     constructor(announce_voices, voice_type, part) {
         this.#part = part;
         this.#audioList = {};
+        this.#voice_cue = [];
         const create_audio = (audio_name) => {
             this.#audioList[audio_name] = new Audio();
         };
