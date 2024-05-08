@@ -5,11 +5,15 @@ export class AudioPlayer {
     #exam_voices;
     #part;
 
+    #current_voice;
+    #voice_cue;
+
     #audioList;
     
     constructor(announce_voices, voice_type, part) {
         this.#part = part;
         this.#audioList = {};
+        this.#voice_cue = [];
         const create_audio = (audio_name) => {
             this.#audioList[audio_name] = new Audio();
         };
@@ -146,31 +150,27 @@ export class AudioPlayer {
     }
 
     stop() {
-        for (const [audio_name, player] of Object.entries(this.#audioList)) {
-            player.pause();
-            player.currentTime = 0;
-        };
+        if (this.#current_voice !== undefined) {
+            this.#audioList[this.#current_voice].pause();
+            this.#audioList[this.#current_voice].currentTime = 0;
+            this.#current_voice = undefined;
+            this.voice_cue = [];
+        }
     };
 
     async #playAudio(audio_name) {
-        const play = (a) => {
-            return new Promise(resolve => {
-                a.play()
-                .then(_ => {
-                    a.onended = resolve;
-                })
-                .catch(err => {
-                   console.log(err); 
-                });
-            });
-        };
-        await play(this.#audioList[audio_name]);
+        this.#current_voice = audio_name;
+        return new Promise(res=>{
+            this.#audioList[audio_name].play()
+            this.#audioList[audio_name].onended = res
+        });
     };
       
     async #playAudioList(audioNameList) {
         this.stop();
-        for (let i = 0; i < audioNameList.length; i++ ) {
-            await this.#playAudio(audioNameList[i]);
+        this.#voice_cue = audioNameList;
+        while (this.#voice_cue.length >= 1) {
+            await this.#playAudio(this.#voice_cue.shift());
         }
     };
 };
