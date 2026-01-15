@@ -11463,10 +11463,10 @@
     },
     {
         "ID": "M522",
-        "Question": "#19",
-        "AnswerA": "When will the auditors arrive?",
-        "AnswerB": "A. A small audio speaker should be good B by the time the initial construction is complete.",
-        "AnswerC": "C at the production area.",
+        "Question": "When will the auditors arrive?",
+        "AnswerA": "A small audio speaker should be good.",
+        "AnswerB": "By the time the initial construction is complete.",
+        "AnswerC": "At the production area.",
         "CorrectAnswer": "B",
         "Voices": {
             "US": {
